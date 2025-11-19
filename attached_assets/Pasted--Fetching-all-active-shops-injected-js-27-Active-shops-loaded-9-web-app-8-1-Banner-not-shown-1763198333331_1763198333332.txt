@@ -1,0 +1,398 @@
+🔍 Fetching all active shops...
+injected.js:27 ✅ Active shops loaded: 9
+web-app-8:1 Banner not shown: beforeinstallpromptevent.preventDefault() called. The page must call beforeinstallpromptevent.prompt() to show the banner.
+injected.js:27 ✅ Active shops loaded: 9
+injected.js:27 🔍 Fetching shop info for: 4f536e1d-10cb-4713-b28a-26cb634f7a98
+injected.js:27 💰 Fetching pricing for shop: 4f536e1d-10cb-4713-b28a-26cb634f7a98
+injected.js:27 🔍 Fetching shop info for: 4f536e1d-10cb-4713-b28a-26cb634f7a98
+injected.js:27 💰 Fetching pricing for shop: 4f536e1d-10cb-4713-b28a-26cb634f7a98
+injected.js:27 ✅ Shop info loaded: test 1
+injected.js:27 ✅ Pricing loaded: 1 configurations
+injected.js:27 💰 Fetching pricing for shop: 4f536e1d-10cb-4713-b28a-26cb634f7a98
+injected.js:27 ✅ Shop info loaded: test 1
+injected.js:27 ✅ Pricing loaded: 1 configurations
+injected.js:27 💰 Fetching pricing for shop: 4f536e1d-10cb-4713-b28a-26cb634f7a98
+injected.js:27 ✅ Pricing loaded: 1 configurations
+injected.js:27 💰 Cost calculated: {totalCost: 1, pricePerPage: 1, appliedTier: undefined, savings: 0}
+injected.js:27 ✅ Pricing loaded: 1 configurations
+injected.js:27 💰 Cost calculated: {totalCost: 1, pricePerPage: 1, appliedTier: undefined, savings: 0}
+injected.js:27 📁 Files selected: 1 files
+injected.js:27 📄 First file type: application/pdf Name: Pharmac classification KDT.pdf
+injected.js:27 🔍 Checking file type... isPDF? true
+injected.js:27 📄 Normalizing PDF to A4 with smart orientation...
+injected.js:27 🔄 Starting normalization of 195 pages...
+injected.js:27 📄 Page 1: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+injected.js:27   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+injected.js:27   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+injected.js:27   ✅ Page 1 normalized to A4 landscape (841.9 x 595.3)
+injected.js:27 📄 Page 2: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+injected.js:27   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+injected.js:27   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+injected.js:27   ✅ Page 2 normalized to A4 landscape (841.9 x 595.3)
+injected.js:27 📄 Page 3: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+injected.js:27   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+injected.js:27   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+injected.js:27   ✅ Page 3 normalized to A4 landscape (841.9 x 595.3)
+injected.js:27 📄 Page 4: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+injected.js:27   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+injected.js:27   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+injected.js:27   ✅ Page 4 normalized to A4 landscape (841.9 x 595.3)
+injected.js:27 📄 Page 5: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+injected.js:27   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+injected.js:27   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+injected.js:27   ✅ Page 5 normalized to A4 landscape (841.9 x 595.3)
+injected.js:27 📄 Page 6: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+injected.js:27   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+injected.js:27   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+injected.js:27   ✅ Page 6 normalized to A4 landscape (841.9 x 595.3)
+injected.js:27 📄 Page 7: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+injected.js:27   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+injected.js:27   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+injected.js:27   ✅ Page 7 normalized to A4 landscape (841.9 x 595.3)
+injected.js:27 📄 Page 8: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+injected.js:27   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+injected.js:27   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+injected.js:27   ✅ Page 8 normalized to A4 landscape (841.9 x 595.3)
+injected.js:27 📄 Page 9: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+injected.js:27   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+injected.js:27   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+injected.js:27   ✅ Page 9 normalized to A4 landscape (841.9 x 595.3)
+injected.js:27 📄 Page 10: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+injected.js:27   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+injected.js:27   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+injected.js:27   ✅ Page 10 normalized to A4 landscape (841.9 x 595.3)
+injected.js:27 📄 Page 11: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+injected.js:27   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+injected.js:27   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+injected.js:27   ✅ Page 11 normalized to A4 landscape (841.9 x 595.3)
+injected.js:27 📄 Page 12: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+injected.js:27   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+injected.js:27   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+injected.js:27   ✅ Page 12 normalized to A4 landscape (841.9 x 595.3)
+injected.js:27 📄 Page 13: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+injected.js:27   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+injected.js:27   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+injected.js:27   ✅ Page 13 normalized to A4 landscape (841.9 x 595.3)
+injected.js:27 📄 Page 14: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+injected.js:27   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+injected.js:27   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+injected.js:27   ✅ Page 14 normalized to A4 landscape (841.9 x 595.3)
+injected.js:27 📄 Page 15: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+injected.js:27   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+injected.js:27   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+injected.js:27   ✅ Page 15 normalized to A4 landscape (841.9 x 595.3)
+injected.js:27 📄 Page 16: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+injected.js:27   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+injected.js:27   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+injected.js:27   ✅ Page 16 normalized to A4 landscape (841.9 x 595.3)
+injected.js:27 📄 Page 17: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+injected.js:27   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+injected.js:27   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+injected.js:27   ✅ Page 17 normalized to A4 landscape (841.9 x 595.3)
+injected.js:27 📄 Page 18: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+injected.js:27   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+injected.js:27   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+injected.js:27   ✅ Page 18 normalized to A4 landscape (841.9 x 595.3)
+injected.js:27 📄 Page 19: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+injected.js:27   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+injected.js:27   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+injected.js:27   ✅ Page 19 normalized to A4 landscape (841.9 x 595.3)
+injected.js:27 📄 Page 20: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+injected.js:27   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+injected.js:27   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+injected.js:27   ✅ Page 20 normalized to A4 landscape (841.9 x 595.3)
+injected.js:27 📄 Page 21: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+injected.js:27   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+injected.js:27   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+injected.js:27   ✅ Page 21 normalized to A4 landscape (841.9 x 595.3)
+injected.js:27 📄 Page 22: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+injected.js:27   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+injected.js:27   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+injected.js:27   ✅ Page 22 normalized to A4 landscape (841.9 x 595.3)
+injected.js:27 📄 Page 23: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+injected.js:27   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+injected.js:27   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+injected.js:27   ✅ Page 23 normalized to A4 landscape (841.9 x 595.3)
+injected.js:27 📄 Page 24: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+injected.js:27   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+injected.js:27   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+injected.js:27   ✅ Page 24 normalized to A4 landscape (841.9 x 595.3)
+injected.js:27 📄 Page 25: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+injected.js:27   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+injected.js:27   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+injected.js:27   ✅ Page 25 normalized to A4 landscape (841.9 x 595.3)
+injected.js:27 📄 Page 26: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+injected.js:27   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+injected.js:27   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+injected.js:27   ✅ Page 26 normalized to A4 landscape (841.9 x 595.3)
+injected.js:27 📄 Page 27: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+injected.js:27   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+injected.js:27   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+injected.js:27   ✅ Page 27 normalized to A4 landscape (841.9 x 595.3)
+injected.js:27 📄 Page 28: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+injected.js:27   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+injected.js:27   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+injected.js:27   ✅ Page 28 normalized to A4 landscape (841.9 x 595.3)
+injected.js:27 📄 Page 29: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+injected.js:27   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+injected.js:27   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+injected.js:27   ✅ Page 29 normalized to A4 landscape (841.9 x 595.3)
+injected.js:27 📄 Page 30: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+injected.js:27   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+injected.js:27   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+injected.js:27   ✅ Page 30 normalized to A4 landscape (841.9 x 595.3)
+injected.js:27 📄 Page 31: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+injected.js:27   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+injected.js:27   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+injected.js:27   ✅ Page 31 normalized to A4 landscape (841.9 x 595.3)
+injected.js:27 📄 Page 32: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+injected.js:27   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+injected.js:27   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+injected.js:27   ✅ Page 32 normalized to A4 landscape (841.9 x 595.3)
+injected.js:27 📄 Page 33: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+injected.js:27   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+injected.js:27   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+injected.js:27   ✅ Page 33 normalized to A4 landscape (841.9 x 595.3)
+injected.js:27 📄 Page 34: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+injected.js:27   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+injected.js:27   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+injected.js:27   ✅ Page 34 normalized to A4 landscape (841.9 x 595.3)
+injected.js:27 📄 Page 35: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+injected.js:27   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+injected.js:27   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+injected.js:27   ✅ Page 35 normalized to A4 landscape (841.9 x 595.3)
+injected.js:27 📄 Page 36: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+injected.js:27   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+injected.js:27   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+injected.js:27   ✅ Page 36 normalized to A4 landscape (841.9 x 595.3)
+injected.js:27 📄 Page 37: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+injected.js:27   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+injected.js:27   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+injected.js:27   ✅ Page 37 normalized to A4 landscape (841.9 x 595.3)
+injected.js:27 📄 Page 38: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+injected.js:27   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+injected.js:27   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+injected.js:27   ✅ Page 38 normalized to A4 landscape (841.9 x 595.3)
+injected.js:27 📄 Page 39: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+injected.js:27   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+injected.js:27   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+injected.js:27   ✅ Page 39 normalized to A4 landscape (841.9 x 595.3)
+injected.js:27 📄 Page 40: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+injected.js:27   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+injected.js:27   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+injected.js:27   ✅ Page 40 normalized to A4 landscape (841.9 x 595.3)
+injected.js:27 📄 Page 41: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+injected.js:27   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+injected.js:27   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+injected.js:27   ✅ Page 41 normalized to A4 landscape (841.9 x 595.3)
+injected.js:27 📄 Page 42: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+injected.js:27   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+injected.js:27   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+injected.js:27   ✅ Page 42 normalized to A4 landscape (841.9 x 595.3)
+injected.js:27 📄 Page 43: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+injected.js:27   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+injected.js:27   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+injected.js:27   ✅ Page 43 normalized to A4 landscape (841.9 x 595.3)
+injected.js:27 📄 Page 44: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+injected.js:27   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+injected.js:27   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+injected.js:27   ✅ Page 44 normalized to A4 landscape (841.9 x 595.3)
+injected.js:27 📄 Page 45: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+injected.js:27   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+injected.js:27   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+injected.js:27   ✅ Page 45 normalized to A4 landscape (841.9 x 595.3)
+injected.js:27 📄 Page 46: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+injected.js:27   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+injected.js:27   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+injected.js:27   ✅ Page 46 normalized to A4 landscape (841.9 x 595.3)
+injected.js:27 📄 Page 47: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+injected.js:27   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+injected.js:27   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+injected.js:27   ✅ Page 47 normalized to A4 landscape (841.9 x 595.3)
+injected.js:27 📄 Page 48: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+injected.js:27   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+injected.js:27   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+injected.js:27   ✅ Page 48 normalized to A4 landscape (841.9 x 595.3)
+injected.js:27 📄 Page 49: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+injected.js:27   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+injected.js:27   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+injected.js:27   ✅ Page 49 normalized to A4 landscape (841.9 x 595.3)
+injected.js:27 📄 Page 50: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+injected.js:27   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+injected.js:27   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+injected.js:27   ✅ Page 50 normalized to A4 landscape (841.9 x 595.3)
+injected.js:27 📄 Page 51: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+injected.js:27   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+injected.js:27   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+injected.js:27   ✅ Page 51 normalized to A4 landscape (841.9 x 595.3)
+injected.js:27 📄 Page 52: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+injected.js:27   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+injected.js:27   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+injected.js:27   ✅ Page 52 normalized to A4 landscape (841.9 x 595.3)
+injected.js:27 📄 Page 53: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+injected.js:27   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+injected.js:27   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+injected.js:27   ✅ Page 53 normalized to A4 landscape (841.9 x 595.3)
+injected.js:27 📄 Page 54: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+injected.js:27   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+injected.js:27   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+injected.js:27   ✅ Page 54 normalized to A4 landscape (841.9 x 595.3)
+injected.js:27 📄 Page 55: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+injected.js:27   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+injected.js:27   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+injected.js:27   ✅ Page 55 normalized to A4 landscape (841.9 x 595.3)
+injected.js:27 📄 Page 56: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+injected.js:27   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+injected.js:27   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+injected.js:27   ✅ Page 56 normalized to A4 landscape (841.9 x 595.3)
+injected.js:27 📄 Page 57: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+injected.js:27   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+injected.js:27   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+injected.js:27   ✅ Page 57 normalized to A4 landscape (841.9 x 595.3)
+injected.js:27 📄 Page 58: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+injected.js:27   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+injected.js:27   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+injected.js:27   ✅ Page 58 normalized to A4 landscape (841.9 x 595.3)
+injected.js:27 📄 Page 59: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+injected.js:27   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+injected.js:27   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+injected.js:27   ✅ Page 59 normalized to A4 landscape (841.9 x 595.3)
+injected.js:27 📄 Page 60: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+injected.js:27   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+injected.js:27   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+injected.js:27   ✅ Page 60 normalized to A4 landscape (841.9 x 595.3)
+injected.js:27 📄 Page 61: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+injected.js:27   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+injected.js:27   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+injected.js:27   ✅ Page 61 normalized to A4 landscape (841.9 x 595.3)
+injected.js:27 📄 Page 62: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+injected.js:27   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+injected.js:27   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+injected.js:27   ✅ Page 62 normalized to A4 landscape (841.9 x 595.3)
+injected.js:27 📄 Page 63: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+injected.js:27   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+injected.js:27   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+injected.js:27   ✅ Page 63 normalized to A4 landscape (841.9 x 595.3)
+injected.js:27 📄 Page 64: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+injected.js:27   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+injected.js:27   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+injected.js:27   ✅ Page 64 normalized to A4 landscape (841.9 x 595.3)
+injected.js:27 📄 Page 65: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+injected.js:27   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+injected.js:27   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+injected.js:27   ✅ Page 65 normalized to A4 landscape (841.9 x 595.3)
+injected.js:27 📄 Page 66: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+injected.js:27   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+injected.js:27   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+injected.js:27   ✅ Page 66 normalized to A4 landscape (841.9 x 595.3)
+injected.js:27 📄 Page 67: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+injected.js:27   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+injected.js:27   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+injected.js:27   ✅ Page 67 normalized to A4 landscape (841.9 x 595.3)
+injected.js:27 📄 Page 68: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+injected.js:27   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+injected.js:27   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+injected.js:27   ✅ Page 68 normalized to A4 landscape (841.9 x 595.3)
+injected.js:27 📄 Page 69: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+injected.js:27   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+injected.js:27   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+injected.js:27   ✅ Page 69 normalized to A4 landscape (841.9 x 595.3)
+injected.js:27 📄 Page 70: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+injected.js:27   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+injected.js:27   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+injected.js:27   ✅ Page 70 normalized to A4 landscape (841.9 x 595.3)
+injected.js:27 📄 Page 71: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+injected.js:27   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+injected.js:27   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+injected.js:27   ✅ Page 71 normalized to A4 landscape (841.9 x 595.3)
+injected.js:27 📄 Page 72: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+injected.js:27   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+injected.js:27   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+injected.js:27   ✅ Page 72 normalized to A4 landscape (841.9 x 595.3)
+injected.js:27 📄 Page 73: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+injected.js:27   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+injected.js:27   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+injected.js:27   ✅ Page 73 normalized to A4 landscape (841.9 x 595.3)
+injected.js:27 📄 Page 74: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+injected.js:27   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+injected.js:27   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+injected.js:27   ✅ Page 74 normalized to A4 landscape (841.9 x 595.3)
+injected.js:27 📄 Page 75: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+injected.js:27   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+injected.js:27   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+injected.js:27   ✅ Page 75 normalized to A4 landscape (841.9 x 595.3)
+injected.js:27 📄 Page 76: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+injected.js:27   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+injected.js:27   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+injected.js:27   ✅ Page 76 normalized to A4 landscape (841.9 x 595.3)
+injected.js:27 📄 Page 77: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+injected.js:27   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+injected.js:27   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+injected.js:27   ✅ Page 77 normalized to A4 landscape (841.9 x 595.3)
+injected.js:27 📄 Page 78: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+injected.js:27   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+injected.js:27   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+injected.js:27   ✅ Page 78 normalized to A4 landscape (841.9 x 595.3)
+injected.js:27 📄 Page 79: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+injected.js:27   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+injected.js:27   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+injected.js:27   ✅ Page 79 normalized to A4 landscape (841.9 x 595.3)
+injected.js:27 📄 Page 80: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+injected.js:27   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+injected.js:27   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+injected.js:27   ✅ Page 80 normalized to A4 landscape (841.9 x 595.3)
+injected.js:27 📄 Page 81: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+injected.js:27   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+injected.js:27   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+injected.js:27   ✅ Page 81 normalized to A4 landscape (841.9 x 595.3)
+injected.js:27 📄 Page 82: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+injected.js:27   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+injected.js:27   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+injected.js:27   ✅ Page 82 normalized to A4 landscape (841.9 x 595.3)
+injected.js:27 📄 Page 83: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+injected.js:27   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+injected.js:27   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+injected.js:27   ✅ Page 83 normalized to A4 landscape (841.9 x 595.3)
+injected.js:27 📄 Page 84: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+injected.js:27   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+injected.js:27   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+injected.js:27   ✅ Page 84 normalized to A4 landscape (841.9 x 595.3)
+injected.js:27 📄 Page 85: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+injected.js:27   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+injected.js:27   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+injected.js:27   ✅ Page 85 normalized to A4 landscape (841.9 x 595.3)
+injected.js:27 📄 Page 86: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+injected.js:27   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+injected.js:27   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+injected.js:27   ✅ Page 86 normalized to A4 landscape (841.9 x 595.3)
+injected.js:27 📄 Page 87: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+injected.js:27   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+injected.js:27   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+injected.js:27   ✅ Page 87 normalized to A4 landscape (841.9 x 595.3)
+injected.js:27 📄 Page 88: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+injected.js:27   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+injected.js:27   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+injected.js:27   ✅ Page 88 normalized to A4 landscape (841.9 x 595.3)
+injected.js:27 📄 Page 89: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+injected.js:27   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+injected.js:27   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+injected.js:27   ✅ Page 89 normalized to A4 landscape (841.9 x 595.3)
+injected.js:27 📄 Page 90: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+injected.js:27   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+injected.js:27   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+injected.js:27   ✅ Page 90 normalized to A4 landscape (841.9 x 595.3)
+injected.js:27 📄 Page 91: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+injected.js:27   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+injected.js:27   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+injected.js:27   ✅ Page 91 normalized to A4 landscape (841.9 x 595.3)
+injected.js:27 📄 Page 92: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+injected.js:27   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+injected.js:27   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+injected.js:27   ✅ Page 92 normalized to A4 landscape (841.9 x 595.3)
+injected.js:27 📄 Page 93: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+injected.js:27   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+injected.js:27   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+injected.js:27   ✅ Page 93 normalized to A4 landscape (841.9 x 595.3)
+injected.js:27 📄 Page 94: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+injected.js:27   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+injected.js:27   📦 Content size after scale: 799.8 x 

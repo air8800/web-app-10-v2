@@ -1,0 +1,423 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>PDF Editor - Design Mockups</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+      background: #f5f5f5;
+      padding: 20px;
+    }
+    .container { max-width: 1200px; margin: 0 auto; }
+    h1 { text-align: center; margin-bottom: 40px; color: #333; }
+    .mockup-section { 
+      background: white;
+      border-radius: 12px;
+      padding: 30px;
+      margin-bottom: 30px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    }
+    h2 { color: #4F46E5; margin-bottom: 20px; }
+    .phone-frame {
+      max-width: 375px;
+      margin: 20px auto;
+      border: 3px solid #333;
+      border-radius: 30px;
+      padding: 15px;
+      background: white;
+      box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+    }
+    .screen {
+      background: white;
+      border-radius: 8px;
+      overflow: hidden;
+    }
+    .header {
+      background: linear-gradient(135deg, #4F46E5 0%, #6366F1 100%);
+      color: white;
+      padding: 20px;
+      text-align: center;
+      font-weight: bold;
+    }
+    .content { padding: 20px; }
+    .preview-box {
+      width: 100%;
+      height: 200px;
+      border: 2px dashed #ddd;
+      border-radius: 8px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin-bottom: 15px;
+      background: #f9f9f9;
+      color: #666;
+      font-size: 14px;
+    }
+    .file-info {
+      text-align: center;
+      color: #666;
+      margin-bottom: 20px;
+      font-size: 13px;
+    }
+    .button-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 12px;
+    }
+    .action-button {
+      background: white;
+      border: 2px solid #e5e7eb;
+      border-radius: 12px;
+      padding: 20px 15px;
+      text-align: center;
+      cursor: pointer;
+      transition: all 0.2s;
+    }
+    .action-button:hover {
+      border-color: #4F46E5;
+      background: #f9fafb;
+    }
+    .action-button .icon {
+      font-size: 32px;
+      margin-bottom: 8px;
+    }
+    .action-button .label {
+      font-size: 13px;
+      font-weight: 600;
+      color: #333;
+    }
+    .continue-btn {
+      width: 100%;
+      background: #4F46E5;
+      color: white;
+      border: none;
+      border-radius: 8px;
+      padding: 15px;
+      font-size: 16px;
+      font-weight: bold;
+      margin-top: 20px;
+      cursor: pointer;
+    }
+    
+    /* Grid View Mockup */
+    .grid-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 15px;
+      background: #f9fafb;
+      border-bottom: 1px solid #e5e7eb;
+    }
+    .page-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 10px;
+      padding: 15px;
+    }
+    .page-card {
+      position: relative;
+      aspect-ratio: 3/4;
+      border: 2px solid #e5e7eb;
+      border-radius: 8px;
+      background: #f9fafb;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 11px;
+      color: #999;
+    }
+    .page-card.selected {
+      border-color: #4F46E5;
+      background: #EEF2FF;
+    }
+    .checkbox {
+      position: absolute;
+      top: 5px;
+      left: 5px;
+      width: 20px;
+      height: 20px;
+      background: white;
+      border: 2px solid #ddd;
+      border-radius: 4px;
+    }
+    .checkbox.checked {
+      background: #4F46E5;
+      border-color: #4F46E5;
+    }
+    .checkbox.checked::after {
+      content: "✓";
+      color: white;
+      display: block;
+      text-align: center;
+      line-height: 16px;
+      font-size: 14px;
+    }
+    .floating-bar {
+      background: #4F46E5;
+      color: white;
+      padding: 12px 15px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 13px;
+    }
+    .floating-bar .actions button {
+      background: white;
+      color: #4F46E5;
+      border: none;
+      padding: 6px 12px;
+      border-radius: 6px;
+      margin-left: 8px;
+      font-size: 12px;
+      font-weight: 600;
+      cursor: pointer;
+    }
+    
+    /* Flow Diagram */
+    .flow-diagram {
+      display: flex;
+      justify-content: space-around;
+      align-items: center;
+      padding: 30px 0;
+      flex-wrap: wrap;
+      gap: 20px;
+    }
+    .flow-step {
+      text-align: center;
+      flex: 1;
+      min-width: 150px;
+    }
+    .flow-box {
+      background: white;
+      border: 2px solid #4F46E5;
+      border-radius: 12px;
+      padding: 20px;
+      margin-bottom: 10px;
+      font-weight: 600;
+      color: #4F46E5;
+    }
+    .flow-arrow {
+      font-size: 30px;
+      color: #4F46E5;
+      margin: 0 10px;
+    }
+    .flow-label {
+      font-size: 12px;
+      color: #666;
+      margin-top: 8px;
+    }
+    .path-quick { color: #10B981; font-weight: bold; }
+    .path-advanced { color: #4F46E5; font-weight: bold; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>📱 PDF Editor - Design Mockups</h1>
+    
+    <!-- Screen 1: Quick Actions -->
+    <div class="mockup-section">
+      <h2>Screen 1: Quick Actions Landing Page</h2>
+      <p style="margin-bottom: 20px; color: #666;">After upload, show ONE page with common actions (not the grid)</p>
+      
+      <div class="phone-frame">
+        <div class="screen">
+          <div class="header">PrintFlow Pro</div>
+          <div class="content">
+            <div class="preview-box">
+              📄<br>First Page Preview
+            </div>
+            <div class="file-info">
+              <strong>document.pdf</strong> • 200 pages • Portrait
+            </div>
+            
+            <div class="button-grid">
+              <div class="action-button">
+                <div class="icon">🔄</div>
+                <div class="label">Rotate All</div>
+              </div>
+              <div class="action-button">
+                <div class="icon">⚫</div>
+                <div class="label">Convert B&W</div>
+              </div>
+              <div class="action-button">
+                <div class="icon">✏️</div>
+                <div class="label">Edit Pages</div>
+              </div>
+              <div class="action-button">
+                <div class="icon">🖨️</div>
+                <div class="label">Print As-Is</div>
+              </div>
+            </div>
+            
+            <button class="continue-btn">Continue</button>
+          </div>
+        </div>
+      </div>
+      
+      <p style="color: #666; margin-top: 20px;">
+        <strong>✅ Benefits:</strong> Most users finish in 1 tap • No overwhelming grid • Advanced users click "Edit Pages"
+      </p>
+    </div>
+    
+    <!-- Screen 2: Batch Selection -->
+    <div class="mockup-section">
+      <h2>Screen 2: Batch Selection Mode (Grid View)</h2>
+      <p style="margin-bottom: 20px; color: #666;">For users who click "Edit Pages" - add batch selection mode</p>
+      
+      <div class="phone-frame">
+        <div class="screen">
+          <div class="grid-header">
+            <strong>Select Pages to Edit</strong>
+            <label style="font-size: 12px;">
+              <input type="checkbox"> Batch Mode
+            </label>
+          </div>
+          
+          <div class="page-grid">
+            <div class="page-card selected">
+              <div class="checkbox checked"></div>
+              Page 1
+            </div>
+            <div class="page-card">
+              <div class="checkbox"></div>
+              Page 2
+            </div>
+            <div class="page-card selected">
+              <div class="checkbox checked"></div>
+              Page 3
+            </div>
+            <div class="page-card selected">
+              <div class="checkbox checked"></div>
+              Page 4
+            </div>
+            <div class="page-card selected">
+              <div class="checkbox checked"></div>
+              Page 5
+            </div>
+            <div class="page-card">
+              <div class="checkbox"></div>
+              Page 6
+            </div>
+            <div class="page-card">
+              <div class="checkbox"></div>
+              Page 7
+            </div>
+            <div class="page-card">
+              <div class="checkbox"></div>
+              Page 8
+            </div>
+            <div class="page-card">
+              <div class="checkbox"></div>
+              Page 9
+            </div>
+          </div>
+          
+          <div class="floating-bar">
+            <div>5 pages selected</div>
+            <div class="actions">
+              <button>Rotate</button>
+              <button>Crop</button>
+              <button>Apply</button>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <p style="color: #666; margin-top: 20px;">
+        <strong>✅ Benefits:</strong> Select pages 1-10 → Apply rotation to all at once • Faster than one-by-one editing
+      </p>
+    </div>
+    
+    <!-- Screen 3: Flow Comparison -->
+    <div class="mockup-section">
+      <h2>Screen 3: User Flow Comparison</h2>
+      <p style="margin-bottom: 20px; color: #666;">Two paths: Quick (1 tap) vs Advanced (full control)</p>
+      
+      <div class="flow-diagram">
+        <div class="flow-step">
+          <div class="flow-box">📤<br>Upload PDF</div>
+        </div>
+        
+        <div class="flow-arrow">→</div>
+        
+        <div class="flow-step">
+          <div class="flow-box">🎯<br>Quick Actions<br><small>(NEW)</small></div>
+        </div>
+        
+        <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
+          <div style="display: flex; align-items: center; gap: 10px;">
+            <div class="flow-arrow" style="color: #10B981;">→</div>
+            <div class="flow-step">
+              <div class="flow-box" style="border-color: #10B981; color: #10B981;">✅<br>Done</div>
+              <div class="flow-label path-quick">Quick Path (1 tap)</div>
+            </div>
+          </div>
+          
+          <div style="display: flex; align-items: center; gap: 10px;">
+            <div class="flow-arrow">→</div>
+            <div class="flow-step">
+              <div class="flow-box">🎨<br>Grid View</div>
+              <div class="flow-label path-advanced">Advanced Path</div>
+            </div>
+            <div class="flow-arrow">→</div>
+            <div class="flow-step">
+              <div class="flow-box">✅<br>Done</div>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <table style="width: 100%; margin-top: 30px; border-collapse: collapse;">
+        <thead>
+          <tr style="background: #f9fafb;">
+            <th style="padding: 12px; text-align: left; border: 1px solid #e5e7eb;">Current Design</th>
+            <th style="padding: 12px; text-align: left; border: 1px solid #e5e7eb;">New Design</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td style="padding: 12px; border: 1px solid #e5e7eb;">Upload → See 200 thumbnails</td>
+            <td style="padding: 12px; border: 1px solid #e5e7eb; background: #f0fdf4;">Upload → Choose action</td>
+          </tr>
+          <tr>
+            <td style="padding: 12px; border: 1px solid #e5e7eb;">Must scroll through all pages</td>
+            <td style="padding: 12px; border: 1px solid #e5e7eb; background: #f0fdf4;">Only see grid if needed</td>
+          </tr>
+          <tr>
+            <td style="padding: 12px; border: 1px solid #e5e7eb;">5-10 taps for simple rotation</td>
+            <td style="padding: 12px; border: 1px solid #e5e7eb; background: #f0fdf4;"><strong>1 tap</strong> for common tasks</td>
+          </tr>
+          <tr>
+            <td style="padding: 12px; border: 1px solid #e5e7eb;">Confusing for first-time users</td>
+            <td style="padding: 12px; border: 1px solid #e5e7eb; background: #f0fdf4;">Clear, guided flow</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    
+    <!-- Implementation Plan -->
+    <div class="mockup-section" style="background: #f0fdf4;">
+      <h2 style="color: #10B981;">💡 Implementation Plan</h2>
+      <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin-top: 20px;">
+        <div>
+          <h3 style="color: #333; margin-bottom: 10px;">Phase 1 (Highest Impact)</h3>
+          <ul style="color: #666; line-height: 2;">
+            <li>✅ Add "Quick Actions" screen after upload</li>
+            <li>✅ Move current grid behind "Edit Pages" button</li>
+          </ul>
+        </div>
+        <div>
+          <h3 style="color: #333; margin-bottom: 10px;">Phase 2 (Nice to Have)</h3>
+          <ul style="color: #666; line-height: 2;">
+            <li>⭐ Add batch selection mode to grid</li>
+            <li>⭐ Add progress indicator for large PDFs</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+</html>

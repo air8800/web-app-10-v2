@@ -1,0 +1,120 @@
+2injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 Current page in editor: Object
+injected.js:27 📄 Single page mode: Rendering single page
+injected.js:27 ✂️ Using pre-centered cropped canvas (already centered, drawing directly)
+injected.js:27 📤 Upload progress: 15.3% (2.39 MB / 15.60 MB)
+injected.js:27 📤 Upload progress: 74.0% (11.54 MB / 15.60 MB)
+2injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📐 Image rect calculated: Object
+2injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📤 Upload progress: 16.7% (2.61 MB / 15.60 MB)
+injected.js:27 📤 Upload progress: 75.4% (11.76 MB / 15.60 MB)
+2injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📤 Upload progress: 18.2% (2.84 MB / 15.60 MB)
+2injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📤 Upload progress: 76.8% (11.98 MB / 15.60 MB)
+2injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📤 Upload progress: 21.0% (3.28 MB / 15.60 MB)
+injected.js:27 📤 Upload progress: 76.9% (12.00 MB / 15.60 MB)
+2injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📤 Upload progress: 23.9% (3.73 MB / 15.60 MB)
+2injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📤 Upload progress: 26.3% (4.11 MB / 15.60 MB)
+2injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+2injected.js:27 📤 Upload progress: 76.9% (12.00 MB / 15.60 MB)
+4injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📤 Upload progress: 29.3% (4.58 MB / 15.60 MB)
+2injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📤 Upload progress: 77.4% (12.08 MB / 15.60 MB)
+2injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📤 Upload progress: 32.0% (5.00 MB / 15.60 MB)
+2injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📤 Upload progress: 34.7% (5.42 MB / 15.60 MB)
+2injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📤 Upload progress: 78.2% (12.20 MB / 15.60 MB)
+2injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📤 Upload progress: 36.9% (5.76 MB / 15.60 MB)
+2injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📤 Upload progress: 38.5% (6.00 MB / 15.60 MB)
+2injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📤 Upload progress: 79.7% (12.44 MB / 15.60 MB)
+2injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📤 Upload progress: 84.1% (13.12 MB / 15.60 MB)
+2injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📤 Upload progress: 90.1% (14.06 MB / 15.60 MB)
+2injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📤 Upload progress: 92.5% (14.44 MB / 15.60 MB)
+2injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+2injected.js:27 📤 Upload progress: 38.5% (6.00 MB / 15.60 MB)
+2injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📤 Upload progress: 95.4% (14.89 MB / 15.60 MB)
+4injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📤 Upload progress: 98.5% (15.36 MB / 15.60 MB)
+2injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📤 Upload progress: 100.0% (15.60 MB / 15.60 MB)
+2injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📤 Upload progress: 39.0% (6.08 MB / 15.60 MB)
+2injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📤 Upload progress: 39.8% (6.20 MB / 15.60 MB)
+2injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📤 Upload progress: 41.5% (6.47 MB / 15.60 MB)
+2injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📤 Upload progress: 45.5% (7.09 MB / 15.60 MB)
+2injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📤 Upload progress: 51.6% (8.05 MB / 15.60 MB)
+2injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📤 Upload progress: 54.6% (8.51 MB / 15.60 MB)
+2injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📤 Upload progress: 100.0% (15.60 MB / 15.60 MB)
+injected.js:27 ✅ Chunked upload complete!
+injected.js:27 📎 File URL: https://nnqqdlrarfdjmyjsxxrw.supabase.co/storage/v1/object/public/print-files/4f536e1d-10cb-4713-b28a-26cb634f7a98/1763197841978_DOC-20230611-WA0009.pdf
+injected.js:27 ⏱️ [TIMING] Background upload completed in 7.54s
+injected.js:27 ✅ File pre-uploaded! Submit will be instant!
+injected.js:27 📎 Pre-uploaded URL: https://nnqqdlrarfdjmyjsxxrw.supabase.co/storage/v1/object/public/print-files/4f536e1d-10cb-4713-b28a-26cb634f7a98/1763197841978_DOC-20230611-WA0009.pdf
+2injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📤 Upload progress: 57.7% (9.00 MB / 15.60 MB)
+2injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📤 Upload progress: 60.6% (9.45 MB / 15.60 MB)
+2injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📤 Upload progress: 63.1% (9.84 MB / 15.60 MB)
+2injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📤 Upload progress: 65.8% (10.26 MB / 15.60 MB)
+2injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📤 Upload progress: 68.6% (10.70 MB / 15.60 MB)
+2injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📤 Upload progress: 71.3% (11.12 MB / 15.60 MB)
+2injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📤 Upload progress: 73.6% (11.48 MB / 15.60 MB)
+2injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📤 Upload progress: 76.4% (11.92 MB / 15.60 MB)
+2injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📤 Upload progress: 76.9% (12.00 MB / 15.60 MB)
+2injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+2injected.js:27 📤 Upload progress: 76.9% (12.00 MB / 15.60 MB)
+injected.js:27 📤 Upload progress: 78.2% (12.20 MB / 15.60 MB)
+2injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📤 Upload progress: 80.0% (12.48 MB / 15.60 MB)
+2injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📤 Upload progress: 87.1% (13.59 MB / 15.60 MB)
+2injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📤 Upload progress: 89.9% (14.03 MB / 15.60 MB)
+2injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📤 Upload progress: 92.5% (14.44 MB / 15.60 MB)
+2injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📤 Upload progress: 95.4% (14.89 MB / 15.60 MB)
+2injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📤 Upload progress: 98.3% (15.33 MB / 15.60 MB)
+2injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📤 Upload progress: 100.0% (15.60 MB / 15.60 MB)
+2injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📤 Upload progress: 100.0% (15.60 MB / 15.60 MB)
+injected.js:27 ✅ Chunked upload complete!
+injected.js:27 📎 File URL: https://nnqqdlrarfdjmyjsxxrw.supabase.co/storage/v1/object/public/print-files/4f536e1d-10cb-4713-b28a-26cb634f7a98/1763197845255_DOC-20230611-WA0009.pdf
+injected.js:27 ⏱️ [TIMING] Background upload completed in 7.19s
+injected.js:27 ✅ File pre-uploaded! Submit will be instant!
+injected.js:27 📎 Pre-uploaded URL: https://nnqqdlrarfdjmyjsxxrw.supabase.co/storage/v1/object/public/print-files/4f536e1d-10cb-4713-b28a-26cb634f7a98/1763197845255_DOC-20230611-WA0009.pdf
+4injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 Current page in editor: Object
+injected.js:27 📄 Single page mode: Rendering single page
+injected.js:27 📐 Image rect calculated: Object
+8injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number

@@ -1,0 +1,2639 @@
+The source list for the Content Security Policy directive 'default-src' contains an invalid source: ''unsafe-dynamic''. It will be ignored.
+The source list for the Content Security Policy directive 'default-src' contains an invalid source: ''unsafe-dynamic''. It will be ignored.
+The source list for the Content Security Policy directive 'default-src' contains an invalid source: ''unsafe-dynamic''. It will be ignored.
+The source list for the Content Security Policy directive 'default-src' contains an invalid source: ''unsafe-dynamic''. It will be ignored.
+The source list for the Content Security Policy directive 'default-src' contains an invalid source: ''unsafe-dynamic''. It will be ignored.
+The source list for the Content Security Policy directive 'default-src' contains an invalid source: ''unsafe-dynamic''. It will be ignored.
+The source list for the Content Security Policy directive 'default-src' contains an invalid source: ''unsafe-dynamic''. It will be ignored.
+The source list for the Content Security Policy directive 'default-src' contains an invalid source: ''unsafe-dynamic''. It will be ignored.
+The source list for the Content Security Policy directive 'default-src' contains an invalid source: ''unsafe-dynamic''. It will be ignored.
+The source list for the Content Security Policy directive 'default-src' contains an invalid source: ''unsafe-dynamic''. It will be ignored.
+The source list for the Content Security Policy directive 'default-src' contains an invalid source: ''unsafe-dynamic''. It will be ignored.
+The source list for the Content Security Policy directive 'default-src' contains an invalid source: ''unsafe-dynamic''. It will be ignored.
+The source list for the Content Security Policy directive 'default-src' contains an invalid source: ''unsafe-dynamic''. It will be ignored.
+The Content-Security-Policy directive 'default-src' contains 'report-uri' as a source expression. Did you want to add it as a directive and forget a semicolon?
+The Content-Security-Policy directive 'default-src' contains 'report-uri' as a source expression. Did you want to add it as a directive and forget a semicolon?
+The Content-Security-Policy directive 'default-src' contains 'report-uri' as a source expression. Did you want to add it as a directive and forget a semicolon?
+The Content-Security-Policy directive 'default-src' contains 'report-uri' as a source expression. Did you want to add it as a directive and forget a semicolon?
+The Content-Security-Policy directive 'default-src' contains 'report-uri' as a source expression. Did you want to add it as a directive and forget a semicolon?
+The Content-Security-Policy directive 'default-src' contains 'report-uri' as a source expression. Did you want to add it as a directive and forget a semicolon?
+The Content-Security-Policy directive 'default-src' contains 'report-uri' as a source expression. Did you want to add it as a directive and forget a semicolon?
+The Content-Security-Policy directive 'default-src' contains 'report-uri' as a source expression. Did you want to add it as a directive and forget a semicolon?
+The Content-Security-Policy directive 'default-src' contains 'report-uri' as a source expression. Did you want to add it as a directive and forget a semicolon?
+The Content-Security-Policy directive 'default-src' contains 'report-uri' as a source expression. Did you want to add it as a directive and forget a semicolon?
+The Content-Security-Policy directive 'default-src' contains 'report-uri' as a source expression. Did you want to add it as a directive and forget a semicolon?
+The Content-Security-Policy directive 'default-src' contains 'report-uri' as a source expression. Did you want to add it as a directive and forget a semicolon?
+The Content-Security-Policy directive 'default-src' contains 'report-uri' as a source expression. Did you want to add it as a directive and forget a semicolon?
+The source list for Content Security Policy directive 'default-src' contains a source with an invalid path: '/api/4509669501698048/security/?sentry_key=7eb3d90eb4660416caf507087367e67e'. The query component, including the '?', will be ignored.
+The source list for Content Security Policy directive 'default-src' contains a source with an invalid path: '/api/4509669501698048/security/?sentry_key=7eb3d90eb4660416caf507087367e67e'. The query component, including the '?', will be ignored.
+The source list for Content Security Policy directive 'default-src' contains a source with an invalid path: '/api/4509669501698048/security/?sentry_key=7eb3d90eb4660416caf507087367e67e'. The query component, including the '?', will be ignored.
+The source list for Content Security Policy directive 'default-src' contains a source with an invalid path: '/api/4509669501698048/security/?sentry_key=7eb3d90eb4660416caf507087367e67e'. The query component, including the '?', will be ignored.
+The source list for Content Security Policy directive 'default-src' contains a source with an invalid path: '/api/4509669501698048/security/?sentry_key=7eb3d90eb4660416caf507087367e67e'. The query component, including the '?', will be ignored.
+The source list for Content Security Policy directive 'default-src' contains a source with an invalid path: '/api/4509669501698048/security/?sentry_key=7eb3d90eb4660416caf507087367e67e'. The query component, including the '?', will be ignored.
+The source list for Content Security Policy directive 'default-src' contains a source with an invalid path: '/api/4509669501698048/security/?sentry_key=7eb3d90eb4660416caf507087367e67e'. The query component, including the '?', will be ignored.
+The source list for Content Security Policy directive 'default-src' contains a source with an invalid path: '/api/4509669501698048/security/?sentry_key=7eb3d90eb4660416caf507087367e67e'. The query component, including the '?', will be ignored.
+The source list for Content Security Policy directive 'default-src' contains a source with an invalid path: '/api/4509669501698048/security/?sentry_key=7eb3d90eb4660416caf507087367e67e'. The query component, including the '?', will be ignored.
+The source list for Content Security Policy directive 'default-src' contains a source with an invalid path: '/api/4509669501698048/security/?sentry_key=7eb3d90eb4660416caf507087367e67e'. The query component, including the '?', will be ignored.
+The source list for Content Security Policy directive 'default-src' contains a source with an invalid path: '/api/4509669501698048/security/?sentry_key=7eb3d90eb4660416caf507087367e67e'. The query component, including the '?', will be ignored.
+The source list for Content Security Policy directive 'default-src' contains a source with an invalid path: '/api/4509669501698048/security/?sentry_key=7eb3d90eb4660416caf507087367e67e'. The query component, including the '?', will be ignored.
+The source list for Content Security Policy directive 'default-src' contains a source with an invalid path: '/api/4509669501698048/security/?sentry_key=7eb3d90eb4660416caf507087367e67e'. The query component, including the '?', will be ignored.
+web-app-8:1 The source list for the Content Security Policy directive 'default-src' contains an invalid source: ''unsafe-dynamic''. It will be ignored.
+web-app-8:1 The Content-Security-Policy directive 'default-src' contains 'report-uri' as a source expression. Did you want to add it as a directive and forget a semicolon?
+web-app-8:1 The source list for Content Security Policy directive 'default-src' contains a source with an invalid path: '/api/4509669501698048/security/?sentry_key=7eb3d90eb4660416caf507087367e67e'. The query component, including the '?', will be ignored.
+ [Coframe] Replit Enterprise watcher loaded
+ 
+      /////////////////////
+   ///////////////////////////
+  ////////@@@@@@@//////////////
+  ////////@@@@@@@//////////////
+  ////////@@@@@@@//////////////        Curious and driven?
+  ///////////////@@@@@@@///////        Work with us!
+  ///////////////@@@@@@@///////
+  ///////////////@@@@@@@///////        https://join.replit.com/hack.with.us
+  ////////@@@@@@@//////////////
+  ////////@@@@@@@//////////////
+  ////////@@@@@@#//////////////
+   ///////////////////////////
+      /////////////////////
+      
+ Download the Apollo DevTools for a better development experience: https://chrome.google.com/webstore/detail/apollo-client-developer-t/jdkknkkbebbapilgoeccciglkfbmbnfm
+ [LaunchDarkly] LaunchDarkly client initialized
+ Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+z @ ed1e693c96a75807.js:2
+(anonymous) @ ed1e693c96a75807.js:2
+iA @ ed1e693c96a75807.js:2
+iV @ ed1e693c96a75807.js:2
+iU @ ed1e693c96a75807.js:2
+i_ @ ed1e693c96a75807.js:2
+C @ ed1e693c96a75807.js:2
+M @ ed1e693c96a75807.js:2
+ Unrecognized feature: 'ambient-light-sensor'.
+z @ ed1e693c96a75807.js:2
+(anonymous) @ ed1e693c96a75807.js:2
+iA @ ed1e693c96a75807.js:2
+iV @ ed1e693c96a75807.js:2
+iU @ ed1e693c96a75807.js:2
+i_ @ ed1e693c96a75807.js:2
+C @ ed1e693c96a75807.js:2
+M @ ed1e693c96a75807.js:2
+ Unrecognized feature: 'battery'.
+z @ ed1e693c96a75807.js:2
+(anonymous) @ ed1e693c96a75807.js:2
+iA @ ed1e693c96a75807.js:2
+iV @ ed1e693c96a75807.js:2
+iU @ ed1e693c96a75807.js:2
+i_ @ ed1e693c96a75807.js:2
+C @ ed1e693c96a75807.js:2
+M @ ed1e693c96a75807.js:2
+ Unrecognized feature: 'execution-while-not-rendered'.
+z @ ed1e693c96a75807.js:2
+(anonymous) @ ed1e693c96a75807.js:2
+iA @ ed1e693c96a75807.js:2
+iV @ ed1e693c96a75807.js:2
+iU @ ed1e693c96a75807.js:2
+i_ @ ed1e693c96a75807.js:2
+C @ ed1e693c96a75807.js:2
+M @ ed1e693c96a75807.js:2
+ Unrecognized feature: 'execution-while-out-of-viewport'.
+z @ ed1e693c96a75807.js:2
+(anonymous) @ ed1e693c96a75807.js:2
+iA @ ed1e693c96a75807.js:2
+iV @ ed1e693c96a75807.js:2
+iU @ ed1e693c96a75807.js:2
+i_ @ ed1e693c96a75807.js:2
+C @ ed1e693c96a75807.js:2
+M @ ed1e693c96a75807.js:2
+ Unrecognized feature: 'layout-animations'.
+z @ ed1e693c96a75807.js:2
+(anonymous) @ ed1e693c96a75807.js:2
+iA @ ed1e693c96a75807.js:2
+iV @ ed1e693c96a75807.js:2
+iU @ ed1e693c96a75807.js:2
+i_ @ ed1e693c96a75807.js:2
+C @ ed1e693c96a75807.js:2
+M @ ed1e693c96a75807.js:2
+ Unrecognized feature: 'legacy-image-formats'.
+z @ ed1e693c96a75807.js:2
+(anonymous) @ ed1e693c96a75807.js:2
+iA @ ed1e693c96a75807.js:2
+iV @ ed1e693c96a75807.js:2
+iU @ ed1e693c96a75807.js:2
+i_ @ ed1e693c96a75807.js:2
+C @ ed1e693c96a75807.js:2
+M @ ed1e693c96a75807.js:2
+ Unrecognized feature: 'navigation-override'.
+z @ ed1e693c96a75807.js:2
+(anonymous) @ ed1e693c96a75807.js:2
+iA @ ed1e693c96a75807.js:2
+iV @ ed1e693c96a75807.js:2
+iU @ ed1e693c96a75807.js:2
+i_ @ ed1e693c96a75807.js:2
+C @ ed1e693c96a75807.js:2
+M @ ed1e693c96a75807.js:2
+ Unrecognized feature: 'oversized-images'.
+z @ ed1e693c96a75807.js:2
+(anonymous) @ ed1e693c96a75807.js:2
+iA @ ed1e693c96a75807.js:2
+iV @ ed1e693c96a75807.js:2
+iU @ ed1e693c96a75807.js:2
+i_ @ ed1e693c96a75807.js:2
+C @ ed1e693c96a75807.js:2
+M @ ed1e693c96a75807.js:2
+ Unrecognized feature: 'publickey-credentials'.
+z @ ed1e693c96a75807.js:2
+(anonymous) @ ed1e693c96a75807.js:2
+iA @ ed1e693c96a75807.js:2
+iV @ ed1e693c96a75807.js:2
+iU @ ed1e693c96a75807.js:2
+i_ @ ed1e693c96a75807.js:2
+C @ ed1e693c96a75807.js:2
+M @ ed1e693c96a75807.js:2
+ Unrecognized feature: 'speaker-selection'.
+z @ ed1e693c96a75807.js:2
+(anonymous) @ ed1e693c96a75807.js:2
+iA @ ed1e693c96a75807.js:2
+iV @ ed1e693c96a75807.js:2
+iU @ ed1e693c96a75807.js:2
+i_ @ ed1e693c96a75807.js:2
+C @ ed1e693c96a75807.js:2
+M @ ed1e693c96a75807.js:2
+ Unrecognized feature: 'unoptimized-images'.
+z @ ed1e693c96a75807.js:2
+(anonymous) @ ed1e693c96a75807.js:2
+iA @ ed1e693c96a75807.js:2
+iV @ ed1e693c96a75807.js:2
+iU @ ed1e693c96a75807.js:2
+i_ @ ed1e693c96a75807.js:2
+C @ ed1e693c96a75807.js:2
+M @ ed1e693c96a75807.js:2
+ Unrecognized feature: 'unsized-media'.
+z @ ed1e693c96a75807.js:2
+(anonymous) @ ed1e693c96a75807.js:2
+iA @ ed1e693c96a75807.js:2
+iV @ ed1e693c96a75807.js:2
+iU @ ed1e693c96a75807.js:2
+i_ @ ed1e693c96a75807.js:2
+C @ ed1e693c96a75807.js:2
+M @ ed1e693c96a75807.js:2
+ Unrecognized feature: 'pointer-lock'.
+z @ ed1e693c96a75807.js:2
+(anonymous) @ ed1e693c96a75807.js:2
+iA @ ed1e693c96a75807.js:2
+iV @ ed1e693c96a75807.js:2
+iU @ ed1e693c96a75807.js:2
+i_ @ ed1e693c96a75807.js:2
+C @ ed1e693c96a75807.js:2
+M @ ed1e693c96a75807.js:2
+ Allow attribute will take precedence over 'allowfullscreen'.
+z @ ed1e693c96a75807.js:2
+(anonymous) @ ed1e693c96a75807.js:2
+iA @ ed1e693c96a75807.js:2
+iV @ ed1e693c96a75807.js:2
+iU @ ed1e693c96a75807.js:2
+i_ @ ed1e693c96a75807.js:2
+C @ ed1e693c96a75807.js:2
+M @ ed1e693c96a75807.js:2
+ Allow attribute will take precedence over 'allowpaymentrequest'.
+z @ ed1e693c96a75807.js:2
+(anonymous) @ ed1e693c96a75807.js:2
+iA @ ed1e693c96a75807.js:2
+iV @ ed1e693c96a75807.js:2
+iU @ ed1e693c96a75807.js:2
+i_ @ ed1e693c96a75807.js:2
+C @ ed1e693c96a75807.js:2
+M @ ed1e693c96a75807.js:2
+web-app-8:1 Banner not shown: beforeinstallpromptevent.preventDefault() called. The page must call beforeinstallpromptevent.prompt() to show the banner.
+ stallwart: failed ping 1
+ Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+z @ ed1e693c96a75807.js:2
+workspace_iframe.html?initialPath=%2F&id=%3Ar65%3A:32 Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+workspace_iframe.html?initialPath=%2F&id=%3Ar65%3A:32 Unrecognized feature: 'ambient-light-sensor'.
+workspace_iframe.html?initialPath=%2F&id=%3Ar65%3A:32 Unrecognized feature: 'battery'.
+workspace_iframe.html?initialPath=%2F&id=%3Ar65%3A:32 Unrecognized feature: 'execution-while-not-rendered'.
+workspace_iframe.html?initialPath=%2F&id=%3Ar65%3A:32 Unrecognized feature: 'execution-while-out-of-viewport'.
+workspace_iframe.html?initialPath=%2F&id=%3Ar65%3A:32 Unrecognized feature: 'layout-animations'.
+workspace_iframe.html?initialPath=%2F&id=%3Ar65%3A:32 Unrecognized feature: 'legacy-image-formats'.
+workspace_iframe.html?initialPath=%2F&id=%3Ar65%3A:32 Unrecognized feature: 'navigation-override'.
+workspace_iframe.html?initialPath=%2F&id=%3Ar65%3A:32 Unrecognized feature: 'oversized-images'.
+workspace_iframe.html?initialPath=%2F&id=%3Ar65%3A:32 Unrecognized feature: 'publickey-credentials'.
+workspace_iframe.html?initialPath=%2F&id=%3Ar65%3A:32 Unrecognized feature: 'speaker-selection'.
+workspace_iframe.html?initialPath=%2F&id=%3Ar65%3A:32 Unrecognized feature: 'unoptimized-images'.
+workspace_iframe.html?initialPath=%2F&id=%3Ar65%3A:32 Unrecognized feature: 'unsized-media'.
+workspace_iframe.html?initialPath=%2F&id=%3Ar65%3A:32 Allow attribute will take precedence over 'allowfullscreen'.
+workspace_iframe.html?initialPath=%2F&id=%3Ar65%3A:32 Allow attribute will take precedence over 'allowpaymentrequest'.
+ 🔧 Supabase Configuration:
+ URL: https://nnqqdlrarfdjmyjsxxrw.supabase.co
+ Storage URL: https://nnqqdlrarfdjmyjsxxrw.storage.supabase.co
+ Key: eyJhbGciOiJIUzI1NiIs...
+ 🔍 Fetching all active shops...
+ ⚠️ React Router Future Flag Warning: React Router will begin wrapping state updates in `React.startTransition` in v7. You can use the `v7_startTransition` future flag to opt-in early. For more information, see https://reactrouter.com/v6/upgrading/future#v7_starttransition.
+(anonymous) @ injected.js:27
+ ⚠️ React Router Future Flag Warning: Relative route resolution within Splat routes is changing in v7. You can use the `v7_relativeSplatPath` future flag to opt-in early. For more information, see https://reactrouter.com/v6/upgrading/future#v7_relativesplatpath.
+(anonymous) @ injected.js:27
+ 🔍 Fetching all active shops...
+ ✅ Active shops loaded: 9
+ ✅ Active shops loaded: 9
+/public/sounds/mixkit-achievement-bell-600.wav:1  Failed to load resource: net::ERR_CACHE_OPERATION_NOT_SUPPORTED
+ 🔍 Fetching shop info for: 4f536e1d-10cb-4713-b28a-26cb634f7a98
+ 💰 Fetching pricing for shop: 4f536e1d-10cb-4713-b28a-26cb634f7a98
+ 🔍 Fetching shop info for: 4f536e1d-10cb-4713-b28a-26cb634f7a98
+ 💰 Fetching pricing for shop: 4f536e1d-10cb-4713-b28a-26cb634f7a98
+ ✅ Pricing loaded: 1 configurations
+ ✅ Shop info loaded: test 1
+ 💰 Fetching pricing for shop: 4f536e1d-10cb-4713-b28a-26cb634f7a98
+ ✅ Pricing loaded: 1 configurations
+ ✅ Shop info loaded: test 1
+ 💰 Fetching pricing for shop: 4f536e1d-10cb-4713-b28a-26cb634f7a98
+ ✅ Pricing loaded: 1 configurations
+ 💰 Cost calculated: Object
+ ✅ Pricing loaded: 1 configurations
+ 💰 Cost calculated: Object
+ 📁 Files selected: 1 files
+ 📄 First file type: application/pdf Name: Pharmac classification KDT.pdf
+ 🔍 Checking file type... isPDF? true
+ 📄 Normalizing PDF to A4 with smart orientation...
+ 🔄 Starting normalization of 195 pages...
+ 📄 Page 1: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 1 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 2: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 2 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 3: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 3 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 4: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 4 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 5: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 5 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 6: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 6 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 7: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 7 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 8: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 8 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 9: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 9 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 10: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 10 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 11: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 11 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 12: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 12 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 13: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 13 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 14: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 14 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 15: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 15 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 16: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 16 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 17: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 17 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 18: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 18 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 19: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 19 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 20: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 20 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 21: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 21 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 22: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 22 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 23: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 23 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 24: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 24 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 25: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 25 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 26: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 26 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 27: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 27 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 28: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 28 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 29: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 29 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 30: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 30 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 31: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 31 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 32: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 32 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 33: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 33 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 34: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 34 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 35: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 35 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 36: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 36 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 37: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 37 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 38: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 38 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 39: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 39 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 40: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 40 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 41: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 41 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 42: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 42 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 43: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 43 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 44: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 44 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 45: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 45 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 46: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 46 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 47: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 47 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 48: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 48 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 49: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 49 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 50: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 50 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 51: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 51 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 52: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 52 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 53: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 53 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 54: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 54 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 55: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 55 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 56: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 56 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 57: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 57 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 58: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 58 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 59: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 59 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 60: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 60 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 61: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 61 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 62: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 62 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 63: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 63 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 64: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 64 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 65: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 65 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 66: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 66 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 67: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 67 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 68: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 68 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 69: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 69 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 70: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 70 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 71: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 71 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 72: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 72 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 73: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 73 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 74: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 74 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 75: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 75 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 76: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 76 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 77: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 77 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 78: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 78 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 79: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 79 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 80: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 80 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 81: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 81 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 82: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 82 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 83: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 83 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 84: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 84 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 85: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 85 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 86: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 86 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 87: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 87 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 88: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 88 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 89: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 89 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 90: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 90 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 91: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 91 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 92: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 92 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 93: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 93 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 94: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 94 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 95: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 95 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 96: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 96 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 97: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 97 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 98: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 98 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 99: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 99 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 100: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 100 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 101: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 101 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 102: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 102 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 103: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 103 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 104: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 104 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 105: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 105 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 106: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 106 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 107: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 107 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 108: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 108 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 109: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 109 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 110: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 110 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 111: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 111 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 112: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 112 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 113: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 113 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 114: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 114 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 115: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 115 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 116: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 116 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 117: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 117 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 118: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 118 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 119: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 119 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 120: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 120 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 121: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 121 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 122: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 122 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 123: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 123 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 124: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 124 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 125: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 125 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 126: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 126 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 127: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 127 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 128: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 128 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 129: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 129 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 130: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 130 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 131: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 131 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 132: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 132 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 133: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 133 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 134: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 134 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 135: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 135 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 136: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 136 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 137: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 137 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 138: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 138 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 139: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 139 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 140: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 140 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 141: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 141 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 142: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 142 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 143: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 143 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 144: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 144 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 145: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 145 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 146: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 146 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 147: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 147 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 148: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 148 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 149: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 149 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 150: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 150 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 151: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 151 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 152: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 152 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 153: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 153 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 154: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 154 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 155: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 155 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 156: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 156 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 157: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 157 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 158: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 158 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 159: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 159 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 160: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 160 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 161: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 161 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 162: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 162 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 163: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 163 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 164: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 164 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 165: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 165 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 166: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 166 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 167: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 167 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 168: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 168 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 169: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 169 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 170: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 170 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 171: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 171 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 172: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 172 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 173: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 173 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 174: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 174 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 175: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 175 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 176: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 176 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 177: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 177 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 178: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 178 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 179: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 179 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 180: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 180 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 181: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 181 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 182: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 182 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 183: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 183 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 184: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 184 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 185: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 185 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 186: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 186 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 187: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+   ✅ Page 187 normalized to A4 landscape (841.9 x 595.3)
+ 📄 Page 188: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+injected.js:27   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+injected.js:27   ✅ Page 188 normalized to A4 landscape (841.9 x 595.3)
+injected.js:27 📄 Page 189: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+injected.js:27   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+injected.js:27   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+injected.js:27   ✅ Page 189 normalized to A4 landscape (841.9 x 595.3)
+injected.js:27 📄 Page 190: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+injected.js:27   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+injected.js:27   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+injected.js:27   ✅ Page 190 normalized to A4 landscape (841.9 x 595.3)
+injected.js:27 📄 Page 191: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+injected.js:27   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+injected.js:27   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+injected.js:27   ✅ Page 191 normalized to A4 landscape (841.9 x 595.3)
+injected.js:27 📄 Page 192: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+injected.js:27   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+injected.js:27   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+injected.js:27   ✅ Page 192 normalized to A4 landscape (841.9 x 595.3)
+injected.js:27 📄 Page 193: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+injected.js:27   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+injected.js:27   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+injected.js:27   ✅ Page 193 normalized to A4 landscape (841.9 x 595.3)
+injected.js:27 📄 Page 194: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+injected.js:27   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+injected.js:27   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+injected.js:27   ✅ Page 194 normalized to A4 landscape (841.9 x 595.3)
+injected.js:27 📄 Page 195: Original size 474.0 x 312.0 (visual: 474.0 x 312.0) → landscape
+injected.js:27   📐 Scale: 1.687 (base: 1.776 × 0.95), Target: 841.9 x 595.3
+injected.js:27   📦 Content size after scale: 799.8 x 526.4, Margins: 21.0, 34.4
+injected.js:27   ✅ Page 195 normalized to A4 landscape (841.9 x 595.3)
+injected.js:27 ✅ Normalization complete: 195 pages
+injected.js:27 📐 Orientations: landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape
+injected.js:27 📦 File size: 14.48 MB → 14.48 MB
+injected.js:27 ✅ PDF normalized: 195 pages
+injected.js:27 📐 Orientations: landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape, landscape
+injected.js:27 📄 Normalized file size: 14.48 MB
+injected.js:27 🔄 Setting orderData.file to normalized PDF (Pharmac classification KDT.pdf, 14.48 MB)
+injected.js:27 🚀 Pre-generating PDF for instant submission...
+injected.js:27 🚀 [TIMING] Starting PDF preparation and background upload...
+injected.js:27 ⏱️ [TIMING] PDF prepared in 0.000s
+injected.js:27 ✅ Original PDF ready - starting background upload...
+injected.js:27 📤 [TIMING] Starting background upload with CHUNKED protocol...
+injected.js:27 📊 File size: 14.48 MB
+injected.js:27 🚀 Starting CHUNKED upload for 14.48 MB file...
+injected.js:27 📁 Using direct storage endpoint: https://nnqqdlrarfdjmyjsxxrw.storage.supabase.co
+injected.js:27 📤 Upload progress: 0.0% (0.00 MB / 14.48 MB)
+injected.js:27 ⏱️ [UPLOAD START] PDF upload started
+injected.js:27 📄 Starting fast PDF loading...
+injected.js:27 📄 Loading file: Pharmac classification KDT.pdf Size: 14.48 MB Type: application/pdf
+injected.js:27 🧹 Cleanup: Revoked 0 blob URLs on unmount
+injected.js:27 🛑 Aborting previous PDF load
+injected.js:27 ⏱️ [UPLOAD START] PDF upload started
+injected.js:27 📄 Starting fast PDF loading...
+injected.js:27 📄 Loading file: Pharmac classification KDT.pdf Size: 14.48 MB Type: application/pdf
+injected.js:27 📄 File converted to array buffer, size: 14.48 MB
+injected.js:27 📄 File converted to array buffer, size: 14.48 MB
+injected.js:27 📤 Upload progress: 1.0% (0.14 MB / 14.48 MB)
+stallwart.build.js:1 stallwart: failed ping 1
+injected.js:27 📤 Upload progress: 1.3% (0.19 MB / 14.48 MB)
+injected.js:27 📤 Upload progress: 1.5% (0.22 MB / 14.48 MB)
+injected.js:27 📄 PDF ready: 195 pages detected
+injected.js:27 📏 First page dimensions: 841.9 x 595.3 (rotation: 0°)
+injected.js:27 📄 Expected A4: 595.3 x 841.9 (portrait) or 841.9 x 595.3 (landscape)
+injected.js:27 ✅ PDF is A4 size - normalization successful!
+injected.js:27 📄 Loading first 2 pages in background...
+injected.js:27 📄 Loading pages 1 to 2
+injected.js:27 📚 Applying settings to pages... 1
+injected.js:27 📤 Upload progress: 2.8% (0.41 MB / 14.48 MB)
+injected.js:27 📤 Upload progress: 3.0% (0.44 MB / 14.48 MB)
+injected.js:27 📄 Loaded 2 pages successfully
+injected.js:27 ⏱️ [FIRST PAGE] First pages loaded at 0.78s after upload
+injected.js:27 📤 Upload progress: 3.2% (0.47 MB / 14.48 MB)
+injected.js:27 📤 Upload progress: 3.5% (0.50 MB / 14.48 MB)
+injected.js:27 📄 PDF ready: 195 pages detected
+injected.js:27 📏 First page dimensions: 841.9 x 595.3 (rotation: 0°)
+injected.js:27 📄 Expected A4: 595.3 x 841.9 (portrait) or 841.9 x 595.3 (landscape)
+injected.js:27 ✅ PDF is A4 size - normalization successful!
+injected.js:27 📄 Loading first 2 pages in background...
+injected.js:27 📄 Loading pages 1 to 2
+injected.js:27 📤 Upload progress: 3.8% (0.55 MB / 14.48 MB)
+injected.js:27 📄 Loaded 2 pages successfully
+injected.js:27 ⏱️ [FIRST PAGE] First pages loaded at 1.35s after upload
+injected.js:27 📤 Upload progress: 4.0% (0.58 MB / 14.48 MB)
+injected.js:27 📤 Upload progress: 4.2% (0.61 MB / 14.48 MB)
+injected.js:27 📤 Upload progress: 4.7% (0.69 MB / 14.48 MB)
+injected.js:27 📤 Upload progress: 5.0% (0.72 MB / 14.48 MB)
+injected.js:27 📤 Upload progress: 5.3% (0.77 MB / 14.48 MB)
+injected.js:27 📤 Upload progress: 5.5% (0.80 MB / 14.48 MB)
+injected.js:27 📤 Upload progress: 5.7% (0.83 MB / 14.48 MB)
+injected.js:27 📤 Upload progress: 5.9% (0.86 MB / 14.48 MB)
+injected.js:27 📤 Upload progress: 6.1% (0.89 MB / 14.48 MB)
+injected.js:27 Warning: Setting up fake worker.
+injected.js:27 📤 Upload progress: 6.4% (0.92 MB / 14.48 MB)
+injected.js:27 📤 Upload progress: 6.7% (0.97 MB / 14.48 MB)
+injected.js:27 📤 Upload progress: 7.0% (1.02 MB / 14.48 MB)
+injected.js:27 📤 Upload progress: 7.2% (1.05 MB / 14.48 MB)
+injected.js:27 📤 Upload progress: 7.6% (1.09 MB / 14.48 MB)
+injected.js:27 📤 Upload progress: 7.9% (1.14 MB / 14.48 MB)
+injected.js:27 📤 Upload progress: 8.1% (1.17 MB / 14.48 MB)
+injected.js:27 📤 Upload progress: 8.3% (1.20 MB / 14.48 MB)
+injected.js:27 📤 Upload progress: 8.5% (1.23 MB / 14.48 MB)
+injected.js:27 📤 Upload progress: 9.0% (1.30 MB / 14.48 MB)
+injected.js:27 📤 Upload progress: 9.3% (1.34 MB / 14.48 MB)
+injected.js:27 📤 Upload progress: 9.5% (1.37 MB / 14.48 MB)
+injected.js:27 Error loading PDF for preview: Error: Setting up fake worker failed: "Cannot load script at: https://cdn.jsdelivr.net/npm/pdfjs-dist@3.11.174/build/pdf.worker.min.mjs".
+    at pdfjs-dist.js?v=a0a2a034:1950:50
+(anonymous) @ injected.js:27
+loadPDF @ PDFPreview.jsx:22
+script
+(anonymous) @ pdfjs-dist.js?v=a0a2a034:5674
+loadScript @ pdfjs-dist.js?v=a0a2a034:5673
+loader @ pdfjs-dist.js?v=a0a2a034:2011
+get _setupFakeWorkerGlobal @ pdfjs-dist.js?v=a0a2a034:2014
+_setupFakeWorker @ pdfjs-dist.js?v=a0a2a034:1933
+terminateEarly @ pdfjs-dist.js?v=a0a2a034:1875
+onWorkerError @ pdfjs-dist.js?v=a0a2a034:1880
+injected.js:27 Error loading PDF for preview: Error: Setting up fake worker failed: "Cannot load script at: https://cdn.jsdelivr.net/npm/pdfjs-dist@3.11.174/build/pdf.worker.min.mjs".
+    at pdfjs-dist.js?v=a0a2a034:1950:50
+(anonymous) @ injected.js:27
+loadPDF @ PDFPreview.jsx:22
+script
+(anonymous) @ pdfjs-dist.js?v=a0a2a034:5674
+loadScript @ pdfjs-dist.js?v=a0a2a034:5673
+loader @ pdfjs-dist.js?v=a0a2a034:2011
+get _setupFakeWorkerGlobal @ pdfjs-dist.js?v=a0a2a034:2014
+_setupFakeWorker @ pdfjs-dist.js?v=a0a2a034:1933
+terminateEarly @ pdfjs-dist.js?v=a0a2a034:1875
+onWorkerError @ pdfjs-dist.js?v=a0a2a034:1880
+injected.js:27 📤 Upload progress: 9.7% (1.41 MB / 14.48 MB)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] 🚀 Performance tracking started
+injected.js:27 [PDFEditor] 📌 Created new controller for file: Pharmac classification KDT.pdf_15178387_1763198676340
+injected.js:27 [PDFEditor] ⏱️ [File Load Start] at 0.60ms
+injected.js:27 🔄 useEffect triggered: {pagesPerSheet: 1, colorMode: 'BW', originalPagesLength: 0}
+injected.js:27 ⚠️ Skipping updateGridThumbnails - no originalPages yet
+injected.js:27 [PDFEditor] 🧹 Component unmounting (cleanup)
+injected.js:27 [PDFEditor] ⏸️ Same file already loading (React Strict Mode) - skipping duplicate
+injected.js:27 🔄 useEffect triggered: {pagesPerSheet: 1, colorMode: 'BW', originalPagesLength: 0}
+injected.js:27 ⚠️ Skipping updateGridThumbnails - no originalPages yet
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏱️ [File Load Complete] at 21ms
+injected.js:27 [PDFEditor] 📊 [File to ArrayBuffer] took 21ms {size: 15178387, sizeFormatted: '14.48 MB'}
+injected.js:27 [PDFEditor] ⏱️ [PDF Parse Start] at 22ms
+injected.js:27 📤 Upload progress: 9.9% (1.44 MB / 14.48 MB)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📤 Upload progress: 10.2% (1.48 MB / 14.48 MB)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📤 Upload progress: 10.6% (1.53 MB / 14.48 MB)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📤 Upload progress: 11.1% (1.61 MB / 14.48 MB)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📤 Upload progress: 11.3% (1.64 MB / 14.48 MB)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📤 Upload progress: 13.5% (1.95 MB / 14.48 MB)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📤 Upload progress: 13.8% (2.00 MB / 14.48 MB)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📤 Upload progress: 14.1% (2.05 MB / 14.48 MB)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📤 Upload progress: 14.3% (2.08 MB / 14.48 MB)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏱️ [PDF Parse Complete] at 854ms
+injected.js:27 [PDFEditor] 📊 [PDF Parsing] took 832ms {pages: 195}
+injected.js:27 [PDFEditor] ⏱️ [Placeholders Start] at 855ms
+injected.js:27 [PDFEditor] ⏱️ [Placeholders Complete] at 855ms
+injected.js:27 [PDFEditor] 📊 [Create Placeholders] took 0.30ms {count: 195}
+injected.js:27 [PDFEditor] ✅ Editor Interactive: 855ms
+injected.js:27 [PDFEditor] 📄 Loading first page (1)...
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor]   ├─ getPage(150ms): 151ms
+injected.js:27 [PDFEditor]   ├─ getViewport(0ms): 0.20ms
+injected.js:27 [PDFEditor]   ├─ canvas-setup(0ms): 0.40ms
+injected.js:27 📤 Upload progress: 14.8% (2.14 MB / 14.48 MB)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📤 Upload progress: 15.1% (2.19 MB / 14.48 MB)
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor]   ├─ page.render(176ms): 177ms
+injected.js:27 [PDFEditor]   ├─ thumbnail(8ms): 8ms
+injected.js:27 [PDFEditor]   ├─ clone(0ms): 0.50ms
+injected.js:27 [PDFEditor]   └─ Total: 337ms
+injected.js:27 [PDFEditor]      Path: getPage(150ms) → getViewport(0ms) → canvas-setup(0ms) → page.render(176ms) → thumbnail(8ms) → clone(0ms)
+injected.js:27 [PDFEditor] 📄 Page 1 (first): 337ms (started at +856ms)
+injected.js:27 [PDFEditor] ✅ First page loaded - editor ready!
+injected.js:27 [PDFEditor] ⏱️ [Progressive Loading Start] at 1.19s
+injected.js:27 [PDFEditor] 📄 Queued 194 pages for progressive loading
+injected.js:27 [PDFEditor] ✅ PDF Editor - Initial page loaded, progressive loading started
+injected.js:27 [PDFEditor] ℹ️ Remaining 194 pages loading progressively in background
+injected.js:27 📤 Upload progress: 15.4% (2.23 MB / 14.48 MB)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor]   ├─ getPage(80ms): 80ms
+injected.js:27 [PDFEditor]   ├─ getViewport(0ms): 0.20ms
+injected.js:27 [PDFEditor]   ├─ canvas-setup(0ms): 0.30ms
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 📤 Upload progress: 15.6% (2.26 MB / 14.48 MB)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor]   ├─ page.render(157ms): 157ms
+injected.js:27 [PDFEditor]   ├─ thumbnail(9ms): 9ms
+injected.js:27 [PDFEditor]   ├─ clone(0ms): 0.30ms
+injected.js:27 [PDFEditor]   └─ Total: 248ms
+injected.js:27 [PDFEditor]      Path: getPage(80ms) → getViewport(0ms) → canvas-setup(0ms) → page.render(157ms) → thumbnail(9ms) → clone(0ms)
+injected.js:27 [PDFEditor] 📄 Page 2 (progressive): 248ms (started at +1.19s)
+injected.js:27 [PDFEditor] ✅ Page 2 loaded (2/195 - 1%)
+injected.js:27 📤 Upload progress: 15.9% (2.30 MB / 14.48 MB)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📤 Upload progress: 16.2% (2.34 MB / 14.48 MB)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor]   ├─ getPage(1ms): 1ms
+injected.js:27 [PDFEditor]   ├─ getViewport(0ms): 0.40ms
+injected.js:27 [PDFEditor]   ├─ canvas-setup(0ms): 0.50ms
+injected.js:27 📤 Upload progress: 16.4% (2.37 MB / 14.48 MB)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📤 Upload progress: 16.6% (2.40 MB / 14.48 MB)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor]   ├─ page.render(182ms): 183ms
+injected.js:27 [PDFEditor]   ├─ thumbnail(9ms): 9ms
+injected.js:27 [PDFEditor]   ├─ clone(0ms): 0.40ms
+injected.js:27 [PDFEditor]   └─ Total: 194ms
+injected.js:27 [PDFEditor]      Path: getPage(1ms) → getViewport(0ms) → canvas-setup(0ms) → page.render(182ms) → thumbnail(9ms) → clone(0ms)
+injected.js:27 [PDFEditor] 📄 Page 3 (progressive): 194ms (started at +1.57s)
+injected.js:27 [PDFEditor] ✅ Page 3 loaded (3/195 - 2%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor]   ├─ getPage(1ms): 0.90ms
+injected.js:27 [PDFEditor]   ├─ getViewport(0ms): 0.20ms
+injected.js:27 [PDFEditor]   ├─ canvas-setup(0ms): 0.40ms
+injected.js:27 [PDFEditor]   ├─ page.render(66ms): 66ms
+injected.js:27 [PDFEditor]   ├─ thumbnail(14ms): 15ms
+injected.js:27 [PDFEditor]   ├─ clone(0ms): 0.40ms
+injected.js:27 [PDFEditor]   └─ Total: 83ms
+injected.js:27 [PDFEditor]      Path: getPage(1ms) → getViewport(0ms) → canvas-setup(0ms) → page.render(66ms) → thumbnail(14ms) → clone(0ms)
+injected.js:27 [PDFEditor] 📄 Page 4 (progressive): 83ms (started at +1.86s)
+injected.js:27 [PDFEditor] ✅ Page 4 loaded (4/195 - 2%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📤 Upload progress: 16.9% (2.45 MB / 14.48 MB)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📤 Upload progress: 17.2% (2.48 MB / 14.48 MB)
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor]   ├─ getPage(57ms): 58ms
+injected.js:27 [PDFEditor]   ├─ getViewport(0ms): 0.10ms
+injected.js:27 [PDFEditor]   ├─ canvas-setup(0ms): 0.20ms
+injected.js:27 [PDFEditor]   ├─ page.render(22ms): 22ms
+injected.js:27 [PDFEditor]   ├─ thumbnail(12ms): 13ms
+injected.js:27 [PDFEditor]   ├─ clone(0ms): 0.50ms
+injected.js:27 [PDFEditor]   └─ Total: 93ms
+injected.js:27 [PDFEditor]      Path: getPage(57ms) → getViewport(0ms) → canvas-setup(0ms) → page.render(22ms) → thumbnail(12ms) → clone(0ms)
+injected.js:27 [PDFEditor] 📄 Page 5 (progressive): 93ms (started at +2.06s)
+injected.js:27 [PDFEditor] ✅ Page 5 loaded (5/195 - 3%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 📤 Upload progress: 17.5% (2.53 MB / 14.48 MB)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] 📄 Page 6 (progressive): 144ms (started at +2.24s)
+injected.js:27 [PDFEditor] ✅ Page 6 loaded (6/195 - 3%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] 📄 Page 7 (progressive): 89ms (started at +2.47s)
+injected.js:27 [PDFEditor] ✅ Page 7 loaded (7/195 - 4%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] 📄 Page 8 (progressive): 26ms (started at +2.62s)
+injected.js:27 [PDFEditor] ✅ Page 8 loaded (8/195 - 4%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] 📄 Page 9 (progressive): 40ms (started at +2.72s)
+injected.js:27 [PDFEditor] ✅ Page 9 loaded (9/195 - 5%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] 📄 Page 10 (progressive): 75ms (started at +2.85s)
+injected.js:27 [PDFEditor] ✅ Page 10 loaded (10/195 - 5%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] 📄 Page 11 (progressive): 31ms (started at +3.02s)
+injected.js:27 [PDFEditor] ✅ Page 11 loaded (11/195 - 6%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] 📄 Page 12 (progressive): 96ms (started at +3.11s)
+injected.js:27 [PDFEditor] ✅ Page 12 loaded (12/195 - 6%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] 📄 Page 13 (progressive): 38ms (started at +3.28s)
+injected.js:27 [PDFEditor] ✅ Page 13 loaded (13/195 - 7%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] 📄 Page 14 (progressive): 81ms (started at +3.40s)
+injected.js:27 [PDFEditor] ✅ Page 14 loaded (14/195 - 7%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] 📄 Page 15 (progressive): 38ms (started at +3.57s)
+injected.js:27 [PDFEditor] ✅ Page 15 loaded (15/195 - 8%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 📤 Upload progress: 18.1% (2.62 MB / 14.48 MB)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] 📄 Page 16 (progressive): 143ms (started at +3.69s)
+injected.js:27 [PDFEditor] ✅ Page 16 loaded (16/195 - 8%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📤 Upload progress: 18.6% (2.69 MB / 14.48 MB)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 📤 Upload progress: 19.5% (2.83 MB / 14.48 MB)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📤 Upload progress: 24.5% (3.54 MB / 14.48 MB)
+injected.js:27 [PDFEditor] 📄 Page 17 (progressive): 168ms (started at +3.95s)
+injected.js:27 [PDFEditor] ✅ Page 17 loaded (17/195 - 9%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📤 Upload progress: 24.8% (3.59 MB / 14.48 MB)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 📤 Upload progress: 25.1% (3.64 MB / 14.48 MB)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] 📄 Page 18 (progressive): 100ms (started at +4.24s)
+injected.js:27 [PDFEditor] ✅ Page 18 loaded (18/195 - 9%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📤 Upload progress: 25.5% (3.69 MB / 14.48 MB)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 📤 Upload progress: 25.9% (3.75 MB / 14.48 MB)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] 📄 Page 19 (progressive): 138ms (started at +4.44s)
+injected.js:27 [PDFEditor] ✅ Page 19 loaded (19/195 - 10%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📤 Upload progress: 26.2% (3.79 MB / 14.48 MB)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] 📄 Page 20 (progressive): 52ms (started at +4.68s)
+injected.js:27 [PDFEditor] ✅ Page 20 loaded (20/195 - 10%)
+injected.js:27 📤 Upload progress: 26.6% (3.86 MB / 14.48 MB)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 📤 Upload progress: 27.0% (3.90 MB / 14.48 MB)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] 📄 Page 21 (progressive): 90ms (started at +4.78s)
+injected.js:27 [PDFEditor] ✅ Page 21 loaded (21/195 - 11%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 📤 Upload progress: 27.3% (3.95 MB / 14.48 MB)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] 📄 Page 22 (progressive): 98ms (started at +4.99s)
+injected.js:27 [PDFEditor] ✅ Page 22 loaded (22/195 - 11%)
+injected.js:27 📤 Upload progress: 27.5% (3.98 MB / 14.48 MB)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📤 Upload progress: 27.8% (4.03 MB / 14.48 MB)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 📤 Upload progress: 28.0% (4.06 MB / 14.48 MB)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] 📄 Page 23 (progressive): 162ms (started at +5.20s)
+injected.js:27 [PDFEditor] ✅ Page 23 loaded (23/195 - 12%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] 📄 Page 24 (progressive): 54ms (started at +5.44s)
+injected.js:27 [PDFEditor] ✅ Page 24 loaded (24/195 - 12%)
+injected.js:27 📤 Upload progress: 28.4% (4.11 MB / 14.48 MB)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 📤 Upload progress: 28.6% (4.14 MB / 14.48 MB)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] 📄 Page 25 (progressive): 38ms (started at +5.64s)
+injected.js:27 [PDFEditor] ✅ Page 25 loaded (25/195 - 13%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] 📄 Page 26 (progressive): 26ms (started at +5.75s)
+injected.js:27 [PDFEditor] ✅ Page 26 loaded (26/195 - 13%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] 📄 Page 27 (progressive): 134ms (started at +5.84s)
+injected.js:27 [PDFEditor] ✅ Page 27 loaded (27/195 - 14%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] 📄 Page 28 (progressive): 33ms (started at +6.05s)
+injected.js:27 [PDFEditor] ✅ Page 28 loaded (28/195 - 14%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] 📄 Page 29 (progressive): 133ms (started at +6.16s)
+injected.js:27 [PDFEditor] ✅ Page 29 loaded (29/195 - 15%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] 📄 Page 30 (progressive): 107ms (started at +6.39s)
+injected.js:27 [PDFEditor] ✅ Page 30 loaded (30/195 - 15%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] 📄 Page 31 (progressive): 33ms (started at +6.58s)
+injected.js:27 [PDFEditor] ✅ Page 31 loaded (31/195 - 16%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] 📄 Page 32 (progressive): 14ms (started at +6.69s)
+injected.js:27 [PDFEditor] ✅ Page 32 loaded (32/195 - 16%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] 📄 Page 33 (progressive): 124ms (started at +6.79s)
+injected.js:27 [PDFEditor] ✅ Page 33 loaded (33/195 - 17%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] 📄 Page 34 (progressive): 55ms (started at +6.98s)
+injected.js:27 [PDFEditor] ✅ Page 34 loaded (34/195 - 17%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 📤 Upload progress: 28.8% (4.17 MB / 14.48 MB)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] 📄 Page 35 (progressive): 53ms (started at +7.16s)
+injected.js:27 [PDFEditor] ✅ Page 35 loaded (35/195 - 18%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📤 Upload progress: 29.0% (4.20 MB / 14.48 MB)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 📤 Upload progress: 29.2% (4.23 MB / 14.48 MB)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] 📄 Page 36 (progressive): 102ms (started at +7.32s)
+injected.js:27 [PDFEditor] ✅ Page 36 loaded (36/195 - 18%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📤 Upload progress: 29.5% (4.26 MB / 14.48 MB)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 📤 Upload progress: 29.8% (4.31 MB / 14.48 MB)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] 📄 Page 37 (progressive): 197ms (started at +7.53s)
+injected.js:27 [PDFEditor] ✅ Page 37 loaded (37/195 - 19%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📤 Upload progress: 30.0% (4.34 MB / 14.48 MB)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 📤 Upload progress: 30.3% (4.39 MB / 14.48 MB)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] 📄 Page 38 (progressive): 179ms (started at +7.83s)
+injected.js:27 [PDFEditor] ✅ Page 38 loaded (38/195 - 19%)
+injected.js:27 📤 Upload progress: 30.5% (4.42 MB / 14.48 MB)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] 📄 Page 39 (progressive): 81ms (started at +8.07s)
+injected.js:27 [PDFEditor] ✅ Page 39 loaded (39/195 - 20%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 📤 Upload progress: 31.0% (4.48 MB / 14.48 MB)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📤 Upload progress: 31.2% (4.51 MB / 14.48 MB)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] 📄 Page 40 (progressive): 94ms (started at +8.27s)
+injected.js:27 [PDFEditor] ✅ Page 40 loaded (40/195 - 21%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📤 Upload progress: 31.7% (4.59 MB / 14.48 MB)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] 📄 Page 41 (progressive): 30ms (started at +8.49s)
+injected.js:27 [PDFEditor] ✅ Page 41 loaded (41/195 - 21%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📤 Upload progress: 32.3% (4.67 MB / 14.48 MB)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] 📄 Page 42 (progressive): 130ms (started at +8.62s)
+injected.js:27 [PDFEditor] ✅ Page 42 loaded (42/195 - 22%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] 📄 Page 43 (progressive): 58ms (started at +8.83s)
+injected.js:27 [PDFEditor] ✅ Page 43 loaded (43/195 - 22%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] 📄 Page 44 (progressive): 133ms (started at +8.98s)
+injected.js:27 [PDFEditor] ✅ Page 44 loaded (44/195 - 23%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] 📄 Page 45 (progressive): 26ms (started at +9.19s)
+injected.js:27 [PDFEditor] ✅ Page 45 loaded (45/195 - 23%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] 📄 Page 46 (progressive): 30ms (started at +9.29s)
+injected.js:27 [PDFEditor] ✅ Page 46 loaded (46/195 - 24%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] 📄 Page 47 (progressive): 127ms (started at +9.39s)
+injected.js:27 [PDFEditor] ✅ Page 47 loaded (47/195 - 24%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] 📄 Page 48 (progressive): 51ms (started at +9.57s)
+injected.js:27 [PDFEditor] ✅ Page 48 loaded (48/195 - 25%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] 📄 Page 49 (progressive): 54ms (started at +9.70s)
+injected.js:27 [PDFEditor] ✅ Page 49 loaded (49/195 - 25%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] 📄 Page 50 (progressive): 137ms (started at +9.84s)
+injected.js:27 [PDFEditor] ✅ Page 50 loaded (50/195 - 26%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] 📄 Page 51 (progressive): 48ms (started at +10.07s)
+injected.js:27 [PDFEditor] ✅ Page 51 loaded (51/195 - 26%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📤 Upload progress: 33.3% (4.83 MB / 14.48 MB)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] 📄 Page 52 (progressive): 30ms (started at +10.22s)
+injected.js:27 [PDFEditor] ✅ Page 52 loaded (52/195 - 27%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📤 Upload progress: 35.8% (5.18 MB / 14.48 MB)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 📤 Upload progress: 41.5% (6.00 MB / 14.48 MB)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] 📄 Page 53 (progressive): 72ms (started at +10.34s)
+injected.js:27 [PDFEditor] ✅ Page 53 loaded (53/195 - 27%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] 📄 Page 54 (progressive): 31ms (started at +10.48s)
+injected.js:27 [PDFEditor] ✅ Page 54 loaded (54/195 - 28%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] 📄 Page 55 (progressive): 117ms (started at +10.59s)
+ [PDFEditor] ✅ Page 55 loaded (55/195 - 28%)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+ [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+ [PDFEditor] 📄 Page 56 (progressive): 27ms (started at +10.78s)
+ [PDFEditor] ✅ Page 56 loaded (56/195 - 29%)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+ [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+ [PDFEditor] 📄 Page 57 (progressive): 49ms (started at +10.90s)
+ [PDFEditor] ✅ Page 57 loaded (57/195 - 29%)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+ [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+ [PDFEditor] 📄 Page 58 (progressive): 135ms (started at +11.04s)
+ [PDFEditor] ✅ Page 58 loaded (58/195 - 30%)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+ [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+ [PDFEditor] 📄 Page 59 (progressive): 20ms (started at +11.26s)
+ [PDFEditor] ✅ Page 59 loaded (59/195 - 30%)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+ [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+ [PDFEditor] 📄 Page 60 (progressive): 141ms (started at +11.35s)
+ [PDFEditor] ✅ Page 60 loaded (60/195 - 31%)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+ [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+ [PDFEditor] 📄 Page 61 (progressive): 111ms (started at +11.59s)
+ [PDFEditor] ✅ Page 61 loaded (61/195 - 31%)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+ [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+ [PDFEditor] 📄 Page 62 (progressive): 80ms (started at +11.79s)
+ [PDFEditor] ✅ Page 62 loaded (62/195 - 32%)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+ [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+ [PDFEditor] 📄 Page 63 (progressive): 47ms (started at +11.94s)
+ [PDFEditor] ✅ Page 63 loaded (63/195 - 32%)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+ [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+ [PDFEditor] 📄 Page 64 (progressive): 123ms (started at +12.06s)
+ [PDFEditor] ✅ Page 64 loaded (64/195 - 33%)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+ [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+ [PDFEditor] 📄 Page 65 (progressive): 109ms (started at +12.25s)
+ [PDFEditor] ✅ Page 65 loaded (65/195 - 33%)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+ [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+ [PDFEditor] 📄 Page 66 (progressive): 118ms (started at +12.39s)
+ [PDFEditor] ✅ Page 66 loaded (66/195 - 34%)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+ [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+ [PDFEditor] 📄 Page 67 (progressive): 103ms (started at +12.58s)
+ [PDFEditor] ✅ Page 67 loaded (67/195 - 34%)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+ [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+ [PDFEditor] 📄 Page 68 (progressive): 55ms (started at +12.76s)
+ [PDFEditor] ✅ Page 68 loaded (68/195 - 35%)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+ [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+ [PDFEditor] 📄 Page 69 (progressive): 86ms (started at +12.89s)
+ [PDFEditor] ✅ Page 69 loaded (69/195 - 35%)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+ [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+ [PDFEditor] 📄 Page 70 (progressive): 38ms (started at +13.04s)
+ [PDFEditor] ✅ Page 70 loaded (70/195 - 36%)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+ [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+ [PDFEditor] 📄 Page 71 (progressive): 24ms (started at +13.15s)
+ [PDFEditor] ✅ Page 71 loaded (71/195 - 36%)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+ [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+ [PDFEditor] 📄 Page 72 (progressive): 127ms (started at +13.25s)
+ [PDFEditor] ✅ Page 72 loaded (72/195 - 37%)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+ [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+ [PDFEditor] 📄 Page 73 (progressive): 23ms (started at +13.46s)
+ [PDFEditor] ✅ Page 73 loaded (73/195 - 37%)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+ [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+ [PDFEditor] 📄 Page 74 (progressive): 21ms (started at +13.55s)
+ [PDFEditor] ✅ Page 74 loaded (74/195 - 38%)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+ [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+ [PDFEditor] 📄 Page 75 (progressive): 88ms (started at +13.64s)
+ [PDFEditor] ✅ Page 75 loaded (75/195 - 38%)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+ [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+ [PDFEditor] 📄 Page 76 (progressive): 39ms (started at +13.81s)
+ [PDFEditor] ✅ Page 76 loaded (76/195 - 39%)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+ [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+ [PDFEditor] 📄 Page 77 (progressive): 109ms (started at +13.91s)
+ [PDFEditor] ✅ Page 77 loaded (77/195 - 39%)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+ [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+ [PDFEditor] 📄 Page 78 (progressive): 60ms (started at +14.10s)
+ [PDFEditor] ✅ Page 78 loaded (78/195 - 40%)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+ [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+ [PDFEditor] 📄 Page 79 (progressive): 104ms (started at +14.24s)
+ [PDFEditor] ✅ Page 79 loaded (79/195 - 41%)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+ [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+ [PDFEditor] 📄 Page 80 (progressive): 22ms (started at +14.42s)
+ [PDFEditor] ✅ Page 80 loaded (80/195 - 41%)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+ [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+ [PDFEditor] 📄 Page 81 (progressive): 62ms (started at +14.52s)
+ [PDFEditor] ✅ Page 81 loaded (81/195 - 42%)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📤 Upload progress: 41.5% (6.00 MB / 14.48 MB)
+ 📤 Upload progress: 41.5% (6.00 MB / 14.48 MB)
+ [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+ [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+ [PDFEditor] 📄 Page 82 (progressive): 19ms (started at +14.65s)
+ [PDFEditor] ✅ Page 82 loaded (82/195 - 42%)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+ [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+ 📤 Upload progress: 42.4% (6.14 MB / 14.48 MB)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] 📄 Page 83 (progressive): 130ms (started at +14.75s)
+ [PDFEditor] ✅ Page 83 loaded (83/195 - 43%)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+ [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+ 📤 Upload progress: 42.7% (6.19 MB / 14.48 MB)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] 📄 Page 84 (progressive): 30ms (started at +14.98s)
+ [PDFEditor] ✅ Page 84 loaded (84/195 - 43%)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📤 Upload progress: 43.9% (6.36 MB / 14.48 MB)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+ [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+ 📤 Upload progress: 44.1% (6.39 MB / 14.48 MB)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] 📄 Page 85 (progressive): 121ms (started at +15.09s)
+ [PDFEditor] ✅ Page 85 loaded (85/195 - 44%)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📤 Upload progress: 44.5% (6.44 MB / 14.48 MB)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+ [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+ [PDFEditor] 📄 Page 86 (progressive): 20ms (started at +15.32s)
+ [PDFEditor] ✅ Page 86 loaded (86/195 - 44%)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📤 Upload progress: 44.7% (6.47 MB / 14.48 MB)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+ [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+ [PDFEditor] 📄 Page 87 (progressive): 31ms (started at +15.44s)
+ [PDFEditor] ✅ Page 87 loaded (87/195 - 45%)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📤 Upload progress: 45.0% (6.52 MB / 14.48 MB)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+ [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+ [PDFEditor] 📄 Page 88 (progressive): 129ms (started at +15.56s)
+ [PDFEditor] ✅ Page 88 loaded (88/195 - 45%)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📤 Upload progress: 45.4% (6.58 MB / 14.48 MB)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+ [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+ [PDFEditor] 📄 Page 89 (progressive): 93ms (started at +15.79s)
+ [PDFEditor] ✅ Page 89 loaded (89/195 - 46%)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📤 Upload progress: 45.9% (6.64 MB / 14.48 MB)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+ [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+ [PDFEditor] 📄 Page 90 (progressive): 91ms (started at +15.98s)
+ [PDFEditor] ✅ Page 90 loaded (90/195 - 46%)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] 📄 Page 91 (progressive): 50ms (started at +16.11s)
+ [PDFEditor] ✅ Page 91 loaded (91/195 - 47%)
+ 📤 Upload progress: 46.2% (6.69 MB / 14.48 MB)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+ [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+ [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+ [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+ 📤 Upload progress: 46.4% (6.72 MB / 14.48 MB)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] 📄 Page 92 (progressive): 32ms (started at +16.31s)
+ [PDFEditor] ✅ Page 92 loaded (92/195 - 47%)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📤 Upload progress: 46.6% (6.75 MB / 14.48 MB)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+ [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+ 📤 Upload progress: 47.0% (6.80 MB / 14.48 MB)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] 📄 Page 93 (progressive): 129ms (started at +16.45s)
+ [PDFEditor] ✅ Page 93 loaded (93/195 - 48%)
+ 📤 Upload progress: 47.2% (6.83 MB / 14.48 MB)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+ [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+ [PDFEditor] 📄 Page 94 (progressive): 72ms (started at +16.65s)
+ [PDFEditor] ✅ Page 94 loaded (94/195 - 48%)
+ 📤 Upload progress: 47.5% (6.87 MB / 14.48 MB)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+ [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+ 📤 Upload progress: 49.5% (7.17 MB / 14.48 MB)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] 📄 Page 95 (progressive): 83ms (started at +16.84s)
+ [PDFEditor] ✅ Page 95 loaded (95/195 - 49%)
+ 📤 Upload progress: 49.9% (7.22 MB / 14.48 MB)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+ [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+ [PDFEditor] 📄 Page 96 (progressive): 52ms (started at +17.00s)
+ [PDFEditor] ✅ Page 96 loaded (96/195 - 49%)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📤 Upload progress: 50.3% (7.28 MB / 14.48 MB)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+ [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+ 📤 Upload progress: 50.5% (7.31 MB / 14.48 MB)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] 📄 Page 97 (progressive): 158ms (started at +17.18s)
+ [PDFEditor] ✅ Page 97 loaded (97/195 - 50%)
+ 📤 Upload progress: 50.7% (7.34 MB / 14.48 MB)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+ [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+ [PDFEditor] 📄 Page 98 (progressive): 27ms (started at +17.42s)
+ [PDFEditor] ✅ Page 98 loaded (98/195 - 50%)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+ [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+ [PDFEditor] 📄 Page 99 (progressive): 110ms (started at +17.52s)
+ [PDFEditor] ✅ Page 99 loaded (99/195 - 51%)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+ [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+ [PDFEditor] 📄 Page 100 (progressive): 39ms (started at +17.71s)
+ [PDFEditor] ✅ Page 100 loaded (100/195 - 51%)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+ [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+ [PDFEditor] 📄 Page 101 (progressive): 24ms (started at +17.82s)
+ [PDFEditor] ✅ Page 101 loaded (101/195 - 52%)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+ [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+ 📤 Upload progress: 51.8% (7.50 MB / 14.48 MB)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] 📄 Page 102 (progressive): 165ms (started at +17.92s)
+ [PDFEditor] ✅ Page 102 loaded (102/195 - 52%)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+ [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+ [PDFEditor] 📄 Page 103 (progressive): 124ms (started at +18.17s)
+ [PDFEditor] ✅ Page 103 loaded (103/195 - 53%)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+ [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+ [PDFEditor] 📄 Page 104 (progressive): 56ms (started at +18.37s)
+ [PDFEditor] ✅ Page 104 loaded (104/195 - 53%)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+ [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+ [PDFEditor] 📄 Page 105 (progressive): 115ms (started at +18.53s)
+ [PDFEditor] ✅ Page 105 loaded (105/195 - 54%)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+ [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+ [PDFEditor] 📄 Page 106 (progressive): 127ms (started at +18.71s)
+ [PDFEditor] ✅ Page 106 loaded (106/195 - 54%)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📤 Upload progress: 52.8% (7.64 MB / 14.48 MB)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+ [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+ [PDFEditor] 📄 Page 107 (progressive): 43ms (started at +18.94s)
+ [PDFEditor] ✅ Page 107 loaded (107/195 - 55%)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] 📄 Page 108 (progressive): 44ms (started at +19.02s)
+ [PDFEditor] ✅ Page 108 loaded (108/195 - 55%)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+ [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+ [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+ [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+ [PDFEditor] 📄 Page 109 (progressive): 76ms (started at +19.14s)
+ [PDFEditor] ✅ Page 109 loaded (109/195 - 56%)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+ [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+ [PDFEditor] 📄 Page 110 (progressive): 65ms (started at +19.27s)
+ [PDFEditor] ✅ Page 110 loaded (110/195 - 56%)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📤 Upload progress: 53.1% (7.69 MB / 14.48 MB)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+ [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+ 📤 Upload progress: 59.0% (8.55 MB / 14.48 MB)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] 📄 Page 111 (progressive): 134ms (started at +19.45s)
+ [PDFEditor] ✅ Page 111 loaded (111/195 - 57%)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+ [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+ [PDFEditor] 📄 Page 112 (progressive): 52ms (started at +19.68s)
+ [PDFEditor] ✅ Page 112 loaded (112/195 - 57%)
+ 📤 Upload progress: 59.5% (8.61 MB / 14.48 MB)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+ [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+ 📤 Upload progress: 59.7% (8.64 MB / 14.48 MB)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] 📄 Page 113 (progressive): 92ms (started at +19.81s)
+ [PDFEditor] ✅ Page 113 loaded (113/195 - 58%)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+ [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+ [PDFEditor] 📄 Page 114 (progressive): 51ms (started at +20.00s)
+ [PDFEditor] ✅ Page 114 loaded (114/195 - 58%)
+ 📤 Upload progress: 60.0% (8.69 MB / 14.48 MB)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+ [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+ 📤 Upload progress: 60.2% (8.72 MB / 14.48 MB)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] 📄 Page 115 (progressive): 58ms (started at +20.15s)
+ [PDFEditor] ✅ Page 115 loaded (115/195 - 59%)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📤 Upload progress: 60.4% (8.75 MB / 14.48 MB)
+ [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+ [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📤 Upload progress: 60.9% (8.81 MB / 14.48 MB)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] 📄 Page 116 (progressive): 114ms (started at +20.31s)
+ [PDFEditor] ✅ Page 116 loaded (116/195 - 59%)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+ [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+ [PDFEditor] 📄 Page 117 (progressive): 62ms (started at +20.50s)
+ [PDFEditor] ✅ Page 117 loaded (117/195 - 60%)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📤 Upload progress: 61.4% (8.89 MB / 14.48 MB)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+ [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+ 📤 Upload progress: 61.7% (8.94 MB / 14.48 MB)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] 📄 Page 118 (progressive): 175ms (started at +20.66s)
+ [PDFEditor] ✅ Page 118 loaded (118/195 - 61%)
+ 📤 Upload progress: 61.9% (8.97 MB / 14.48 MB)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+ [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+ 📤 Upload progress: 62.3% (9.01 MB / 14.48 MB)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📤 Upload progress: 62.5% (9.05 MB / 14.48 MB)
+ [PDFEditor] 📄 Page 119 (progressive): 100ms (started at +20.96s)
+ [PDFEditor] ✅ Page 119 loaded (119/195 - 61%)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+ [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+ [PDFEditor] 📄 Page 120 (progressive): 74ms (started at +21.12s)
+ [PDFEditor] ✅ Page 120 loaded (120/195 - 62%)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+ [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+ [PDFEditor] 📄 Page 121 (progressive): 43ms (started at +21.28s)
+ [PDFEditor] ✅ Page 121 loaded (121/195 - 62%)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+ [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+ [PDFEditor] 📄 Page 122 (progressive): 122ms (started at +21.42s)
+ [PDFEditor] ✅ Page 122 loaded (122/195 - 63%)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+ [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+ [PDFEditor] 📄 Page 123 (progressive): 22ms (started at +21.62s)
+ [PDFEditor] ✅ Page 123 loaded (123/195 - 63%)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+ [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+ [PDFEditor] 📄 Page 124 (progressive): 54ms (started at +21.73s)
+ [PDFEditor] ✅ Page 124 loaded (124/195 - 64%)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+ [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+ [PDFEditor] 📄 Page 125 (progressive): 80ms (started at +21.86s)
+ [PDFEditor] ✅ Page 125 loaded (125/195 - 64%)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+ [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+ [PDFEditor] 📄 Page 126 (progressive): 62ms (started at +22.02s)
+ [PDFEditor] ✅ Page 126 loaded (126/195 - 65%)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📤 Upload progress: 62.6% (9.06 MB / 14.48 MB)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+ [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+ [PDFEditor] 📄 Page 127 (progressive): 34ms (started at +22.18s)
+ [PDFEditor] ✅ Page 127 loaded (127/195 - 65%)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+ [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+ [PDFEditor] 📄 Page 128 (progressive): 132ms (started at +22.27s)
+ [PDFEditor] ✅ Page 128 loaded (128/195 - 66%)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+ [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+ [PDFEditor] 📄 Page 129 (progressive): 26ms (started at +22.49s)
+ [PDFEditor] ✅ Page 129 loaded (129/195 - 66%)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+ [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+ [PDFEditor] 📄 Page 130 (progressive): 119ms (started at +22.59s)
+ [PDFEditor] ✅ Page 130 loaded (130/195 - 67%)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📤 Upload progress: 62.9% (9.11 MB / 14.48 MB)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+ [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+ 📤 Upload progress: 64.1% (9.28 MB / 14.48 MB)
+ [PDFEditor] 📄 Page 131 (progressive): 157ms (started at +22.83s)
+ [PDFEditor] ✅ Page 131 loaded (131/195 - 67%)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+ [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+ 📤 Upload progress: 67.1% (9.72 MB / 14.48 MB)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📤 Upload progress: 74.4% (10.76 MB / 14.48 MB)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] 📄 Page 132 (progressive): 88ms (started at +23.16s)
+ [PDFEditor] ✅ Page 132 loaded (132/195 - 68%)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 Current page in editor: {pageNumber: 1, isSheet: undefined, pagesPerSheet: 1, isNupMode: false}
+ 📄 Single page mode: Rendering single page
+ 📤 Upload progress: 74.6% (10.79 MB / 14.48 MB)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] 📄 Page 133 (progressive): 71ms (started at +23.29s)
+ [PDFEditor] ✅ Page 133 loaded (133/195 - 68%)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📤 Upload progress: 74.9% (10.84 MB / 14.48 MB)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📐 Image rect calculated: {canvasRect: DOMRect, containerRect: DOMRect, imageRect: {…}}
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📤 Upload progress: 75.4% (10.92 MB / 14.48 MB)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] 📄 Page 134 (progressive): 140ms (started at +23.40s)
+ [PDFEditor] ✅ Page 134 loaded (134/195 - 69%)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] 📄 Page 135 (progressive): 33ms (started at +23.58s)
+ [PDFEditor] ✅ Page 135 loaded (135/195 - 69%)
+ 📤 Upload progress: 75.8% (10.97 MB / 14.48 MB)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] 📄 Page 136 (progressive): 24ms (started at +23.65s)
+ [PDFEditor] ✅ Page 136 loaded (136/195 - 70%)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📤 Upload progress: 76.4% (11.06 MB / 14.48 MB)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] 📄 Page 137 (progressive): 101ms (started at +23.71s)
+ [PDFEditor] ✅ Page 137 loaded (137/195 - 70%)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📤 Upload progress: 76.9% (11.14 MB / 14.48 MB)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] 📄 Page 138 (progressive): 31ms (started at +23.85s)
+ [PDFEditor] ✅ Page 138 loaded (138/195 - 71%)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] 📄 Page 139 (progressive): 37ms (started at +23.88s)
+ [PDFEditor] ✅ Page 139 loaded (139/195 - 71%)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📤 Upload progress: 77.4% (11.20 MB / 14.48 MB)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] 📄 Page 140 (progressive): 54ms (started at +23.94s)
+ [PDFEditor] ✅ Page 140 loaded (140/195 - 72%)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] 📄 Page 141 (progressive): 55ms (started at +24.00s)
+ [PDFEditor] ✅ Page 141 loaded (141/195 - 72%)
+ 📤 Upload progress: 77.7% (11.25 MB / 14.48 MB)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] 📄 Page 142 (progressive): 44ms (started at +24.10s)
+ [PDFEditor] ✅ Page 142 loaded (142/195 - 73%)
+ 📤 Upload progress: 78.0% (11.29 MB / 14.48 MB)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] 📄 Page 143 (progressive): 28ms (started at +24.15s)
+ [PDFEditor] ✅ Page 143 loaded (143/195 - 73%)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] 📄 Page 144 (progressive): 26ms (started at +24.22s)
+ [PDFEditor] ✅ Page 144 loaded (144/195 - 74%)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📤 Upload progress: 78.5% (11.36 MB / 14.48 MB)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] 📄 Page 145 (progressive): 71ms (started at +24.25s)
+ [PDFEditor] ✅ Page 145 loaded (145/195 - 74%)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] 📄 Page 146 (progressive): 57ms (started at +24.32s)
+ [PDFEditor] ✅ Page 146 loaded (146/195 - 75%)
+ 📤 Upload progress: 78.9% (11.42 MB / 14.48 MB)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📤 Upload progress: 79.2% (11.47 MB / 14.48 MB)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] 📄 Page 147 (progressive): 162ms (started at +24.42s)
+ [PDFEditor] ✅ Page 147 loaded (147/195 - 75%)
+ 📤 Upload progress: 79.5% (11.51 MB / 14.48 MB)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] 📄 Page 148 (progressive): 17ms (started at +24.63s)
+ [PDFEditor] ✅ Page 148 loaded (148/195 - 76%)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] 📄 Page 149 (progressive): 40ms (started at +24.65s)
+ [PDFEditor] ✅ Page 149 loaded (149/195 - 76%)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📤 Upload progress: 80.0% (11.58 MB / 14.48 MB)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📤 Upload progress: 80.4% (11.64 MB / 14.48 MB)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] 📄 Page 150 (progressive): 119ms (started at +24.73s)
+ [PDFEditor] ✅ Page 150 loaded (150/195 - 77%)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📤 Upload progress: 80.8% (11.70 MB / 14.48 MB)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] 📄 Page 151 (progressive): 113ms (started at +24.87s)
+ [PDFEditor] ✅ Page 151 loaded (151/195 - 77%)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📤 Upload progress: 81.4% (11.78 MB / 14.48 MB)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] 📄 Page 152 (progressive): 66ms (started at +24.99s)
+ [PDFEditor] ✅ Page 152 loaded (152/195 - 78%)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📤 Upload progress: 81.7% (11.82 MB / 14.48 MB)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] 📄 Page 153 (progressive): 109ms (started at +25.10s)
+ [PDFEditor] ✅ Page 153 loaded (153/195 - 78%)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📤 Upload progress: 82.1% (11.89 MB / 14.48 MB)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] 📄 Page 154 (progressive): 125ms (started at +25.22s)
+ [PDFEditor] ✅ Page 154 loaded (154/195 - 79%)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📤 Upload progress: 82.6% (11.95 MB / 14.48 MB)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] 📄 Page 155 (progressive): 34ms (started at +25.38s)
+ [PDFEditor] ✅ Page 155 loaded (155/195 - 79%)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] 📄 Page 156 (progressive): 35ms (started at +25.42s)
+ [PDFEditor] ✅ Page 156 loaded (156/195 - 80%)
+ 📤 Upload progress: 82.9% (12.00 MB / 14.48 MB)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] 📄 Page 157 (progressive): 33ms (started at +25.48s)
+ [PDFEditor] ✅ Page 157 loaded (157/195 - 81%)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] 📄 Page 158 (progressive): 129ms (started at +25.51s)
+ [PDFEditor] ✅ Page 158 loaded (158/195 - 81%)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] 📄 Page 159 (progressive): 31ms (started at +25.68s)
+ [PDFEditor] ✅ Page 159 loaded (159/195 - 82%)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] 📄 Page 160 (progressive): 46ms (started at +25.71s)
+ [PDFEditor] ✅ Page 160 loaded (160/195 - 82%)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] 📄 Page 161 (progressive): 44ms (started at +25.80s)
+ [PDFEditor] ✅ Page 161 loaded (161/195 - 83%)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] 📄 Page 162 (progressive): 138ms (started at +25.88s)
+ [PDFEditor] ✅ Page 162 loaded (162/195 - 83%)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] 📄 Page 163 (progressive): 23ms (started at +26.06s)
+ [PDFEditor] ✅ Page 163 loaded (163/195 - 84%)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] 📄 Page 164 (progressive): 28ms (started at +26.08s)
+ [PDFEditor] ✅ Page 164 loaded (164/195 - 84%)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] 📄 Page 165 (progressive): 39ms (started at +26.15s)
+ [PDFEditor] ✅ Page 165 loaded (165/195 - 85%)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] 📄 Page 166 (progressive): 79ms (started at +26.19s)
+ [PDFEditor] ✅ Page 166 loaded (166/195 - 85%)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] 📄 Page 167 (progressive): 36ms (started at +26.28s)
+ [PDFEditor] ✅ Page 167 loaded (167/195 - 86%)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] 📄 Page 168 (progressive): 51ms (started at +26.33s)
+ [PDFEditor] ✅ Page 168 loaded (168/195 - 86%)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] 📄 Page 169 (progressive): 121ms (started at +26.42s)
+ [PDFEditor] ✅ Page 169 loaded (169/195 - 87%)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] 📄 Page 170 (progressive): 103ms (started at +26.58s)
+ [PDFEditor] ✅ Page 170 loaded (170/195 - 87%)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] 📄 Page 171 (progressive): 144ms (started at +26.72s)
+ [PDFEditor] ✅ Page 171 loaded (171/195 - 88%)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] 📄 Page 172 (progressive): 101ms (started at +26.91s)
+ [PDFEditor] ✅ Page 172 loaded (172/195 - 88%)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] 📄 Page 173 (progressive): 57ms (started at +27.01s)
+ [PDFEditor] ✅ Page 173 loaded (173/195 - 89%)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] 📄 Page 174 (progressive): 24ms (started at +27.07s)
+ [PDFEditor] ✅ Page 174 loaded (174/195 - 89%)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] 📄 Page 175 (progressive): 21ms (started at +27.13s)
+ [PDFEditor] ✅ Page 175 loaded (175/195 - 90%)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] 📄 Page 176 (progressive): 125ms (started at +27.20s)
+ [PDFEditor] ✅ Page 176 loaded (176/195 - 90%)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] 📄 Page 177 (progressive): 96ms (started at +27.38s)
+ [PDFEditor] ✅ Page 177 loaded (177/195 - 91%)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] 📄 Page 178 (progressive): 56ms (started at +27.51s)
+ [PDFEditor] ✅ Page 178 loaded (178/195 - 91%)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] 📄 Page 179 (progressive): 94ms (started at +27.61s)
+ [PDFEditor] ✅ Page 179 loaded (179/195 - 92%)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] 📄 Page 180 (progressive): 21ms (started at +27.70s)
+ [PDFEditor] ✅ Page 180 loaded (180/195 - 92%)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] 📄 Page 181 (progressive): 42ms (started at +27.75s)
+ [PDFEditor] ✅ Page 181 loaded (181/195 - 93%)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] 📄 Page 182 (progressive): 29ms (started at +27.83s)
+ [PDFEditor] ✅ Page 182 loaded (182/195 - 93%)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] 📄 Page 183 (progressive): 27ms (started at +27.90s)
+ [PDFEditor] ✅ Page 183 loaded (183/195 - 94%)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] 📄 Page 184 (progressive): 88ms (started at +27.93s)
+ [PDFEditor] ✅ Page 184 loaded (184/195 - 94%)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] 📄 Page 185 (progressive): 33ms (started at +28.07s)
+ [PDFEditor] ✅ Page 185 loaded (185/195 - 95%)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] 📄 Page 186 (progressive): 23ms (started at +28.14s)
+ [PDFEditor] ✅ Page 186 loaded (186/195 - 95%)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] 📄 Page 187 (progressive): 28ms (started at +28.16s)
+ [PDFEditor] ✅ Page 187 loaded (187/195 - 96%)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] 📄 Page 188 (progressive): 30ms (started at +28.23s)
+ [PDFEditor] ✅ Page 188 loaded (188/195 - 96%)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] 📄 Page 189 (progressive): 134ms (started at +28.30s)
+ [PDFEditor] ✅ Page 189 loaded (189/195 - 97%)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] 📄 Page 190 (progressive): 21ms (started at +28.48s)
+ [PDFEditor] ✅ Page 190 loaded (190/195 - 97%)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] 📄 Page 191 (progressive): 32ms (started at +28.50s)
+ [PDFEditor] ✅ Page 191 loaded (191/195 - 98%)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] 📄 Page 192 (progressive): 19ms (started at +28.57s)
+ [PDFEditor] ✅ Page 192 loaded (192/195 - 98%)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] 📄 Page 193 (progressive): 36ms (started at +28.59s)
+ [PDFEditor] ✅ Page 193 loaded (193/195 - 99%)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] 📄 Page 194 (progressive): 73ms (started at +28.67s)
+ [PDFEditor] ✅ Page 194 loaded (194/195 - 99%)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ [PDFEditor] 📄 Page 195 (progressive): 43ms (started at +28.79s)
+ [PDFEditor] ✅ Page 195 loaded (195/195 - 100%)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📤 Upload progress: 82.9% (12.00 MB / 14.48 MB)
+ 📤 Upload progress: 82.9% (12.00 MB / 14.48 MB)
+ 📤 Upload progress: 83.4% (12.08 MB / 14.48 MB)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📤 Upload progress: 84.2% (12.19 MB / 14.48 MB)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📤 Upload progress: 85.6% (12.39 MB / 14.48 MB)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📤 Upload progress: 86.0% (12.45 MB / 14.48 MB)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📤 Upload progress: 86.6% (12.53 MB / 14.48 MB)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📤 Upload progress: 88.8% (12.86 MB / 14.48 MB)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📤 Upload progress: 89.5% (12.95 MB / 14.48 MB)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📤 Upload progress: 89.8% (13.00 MB / 14.48 MB)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📤 Upload progress: 90.6% (13.11 MB / 14.48 MB)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📤 Upload progress: 91.2% (13.20 MB / 14.48 MB)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📤 Upload progress: 91.9% (13.30 MB / 14.48 MB)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📤 Upload progress: 92.5% (13.39 MB / 14.48 MB)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📤 Upload progress: 93.1% (13.48 MB / 14.48 MB)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📤 Upload progress: 93.9% (13.59 MB / 14.48 MB)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📤 Upload progress: 94.2% (13.64 MB / 14.48 MB)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📤 Upload progress: 95.0% (13.75 MB / 14.48 MB)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📤 Upload progress: 95.6% (13.84 MB / 14.48 MB)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📤 Upload progress: 96.3% (13.94 MB / 14.48 MB)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📤 Upload progress: 96.9% (14.03 MB / 14.48 MB)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📤 Upload progress: 97.5% (14.11 MB / 14.48 MB)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📤 Upload progress: 98.1% (14.20 MB / 14.48 MB)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📤 Upload progress: 98.8% (14.30 MB / 14.48 MB)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📤 Upload progress: 99.1% (14.34 MB / 14.48 MB)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📤 Upload progress: 99.5% (14.40 MB / 14.48 MB)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📤 Upload progress: 99.9% (14.47 MB / 14.48 MB)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📤 Upload progress: 100.0% (14.48 MB / 14.48 MB)
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📤 Upload progress: 100.0% (14.48 MB / 14.48 MB)
+ ✅ Chunked upload complete!
+ 📎 File URL: https://nnqqdlrarfdjmyjsxxrw.supabase.co/storage/v1/object/public/print-files/4f536e1d-10cb-4713-b28a-26cb634f7a98/1763198676342_Pharmac-classification-KDT.pdf
+ ⏱️ [TIMING] Background upload completed in 37.59s
+ ✅ File pre-uploaded! Submit will be instant!
+ 📎 Pre-uploaded URL: https://nnqqdlrarfdjmyjsxxrw.supabase.co/storage/v1/object/public/print-files/4f536e1d-10cb-4713-b28a-26cb634f7a98/1763198676342_Pharmac-classification-KDT.pdf
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+ 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number

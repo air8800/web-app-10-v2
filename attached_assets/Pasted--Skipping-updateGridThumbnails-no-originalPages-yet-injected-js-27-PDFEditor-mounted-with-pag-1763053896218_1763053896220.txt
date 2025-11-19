@@ -1,0 +1,1290 @@
+⚠️ Skipping updateGridThumbnails - no originalPages yet
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📤 Upload progress: 1.8% (4.54 MB / 250.77 MB)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDF ready: 202 pages detected
+injected.js:27 📄 Loading first 8 pages in background...
+injected.js:27 📄 Loading pages 1 to 8
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📤 Upload progress: 1.9% (4.76 MB / 250.77 MB)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📤 Upload progress: 2.0% (5.06 MB / 250.77 MB)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏱️ [File Load Complete] at 339ms
+injected.js:27 [PDFEditor] 📊 [File to ArrayBuffer] took 339ms {size: 262946565, sizeFormatted: '250.77 MB'}
+injected.js:27 [PDFEditor] ⏱️ [PDF Parse Start] at 340ms
+injected.js:27 [PDFEditor] ⏱️ [File Load Complete] at 345ms
+injected.js:27 [PDFEditor] 📊 [File to ArrayBuffer] took 345ms {size: 262946565, sizeFormatted: '250.77 MB'}
+injected.js:27 [PDFEditor] ⏱️ [PDF Parse Start] at 355ms
+injected.js:27 📤 Upload progress: 2.1% (5.37 MB / 250.77 MB)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📤 Upload progress: 2.3% (5.67 MB / 250.77 MB)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📤 Upload progress: 2.4% (5.93 MB / 250.77 MB)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📤 Upload progress: 2.4% (6.00 MB / 250.77 MB)
+supabase.js:386  POST https://nnqqdlrarfdjmyjsxxrw.storage.supabase.co/storage/v1/upload/resumable 413 (Content Too Large)
+(anonymous) @ tus-js-client.js?v=e4c128d3:2789
+send @ tus-js-client.js?v=e4c128d3:2782
+_callee$ @ tus-js-client.js?v=e4c128d3:1979
+tryCatch @ tus-js-client.js?v=e4c128d3:826
+(anonymous) @ tus-js-client.js?v=e4c128d3:903
+(anonymous) @ tus-js-client.js?v=e4c128d3:849
+asyncGeneratorStep @ tus-js-client.js?v=e4c128d3:1042
+_next @ tus-js-client.js?v=e4c128d3:1060
+(anonymous) @ tus-js-client.js?v=e4c128d3:1065
+(anonymous) @ tus-js-client.js?v=e4c128d3:1057
+sendRequest @ tus-js-client.js?v=e4c128d3:1963
+_sendRequest @ tus-js-client.js?v=e4c128d3:1900
+(anonymous) @ tus-js-client.js?v=e4c128d3:1811
+Promise.then
+_addChunkToRequest @ tus-js-client.js?v=e4c128d3:1793
+_createUpload @ tus-js-client.js?v=e4c128d3:1638
+_startSingleUpload @ tus-js-client.js?v=e4c128d3:1487
+(anonymous) @ tus-js-client.js?v=e4c128d3:1364
+Promise.then
+start @ tus-js-client.js?v=e4c128d3:1344
+(anonymous) @ supabase.js:386
+uploadFileChunked @ supabase.js:316
+uploadInBackground @ OrderPage.jsx:549
+generateInitialPDF @ OrderPage.jsx:527
+handleFileChange @ OrderPage.jsx:317
+onChange @ OrderPage.jsx:1420
+callCallback2 @ chunk-NFC5BX5N.js?v=e4c128d3:3674
+invokeGuardedCallbackDev @ chunk-NFC5BX5N.js?v=e4c128d3:3699
+invokeGuardedCallback @ chunk-NFC5BX5N.js?v=e4c128d3:3733
+invokeGuardedCallbackAndCatchFirstError @ chunk-NFC5BX5N.js?v=e4c128d3:3736
+executeDispatch @ chunk-NFC5BX5N.js?v=e4c128d3:7014
+processDispatchQueueItemsInOrder @ chunk-NFC5BX5N.js?v=e4c128d3:7034
+processDispatchQueue @ chunk-NFC5BX5N.js?v=e4c128d3:7043
+dispatchEventsForPlugins @ chunk-NFC5BX5N.js?v=e4c128d3:7051
+(anonymous) @ chunk-NFC5BX5N.js?v=e4c128d3:7174
+batchedUpdates$1 @ chunk-NFC5BX5N.js?v=e4c128d3:18913
+batchedUpdates @ chunk-NFC5BX5N.js?v=e4c128d3:3579
+dispatchEventForPluginEventSystem @ chunk-NFC5BX5N.js?v=e4c128d3:7173
+dispatchEventWithEnableCapturePhaseSelectiveHydrationWithoutDiscreteEventReplay @ chunk-NFC5BX5N.js?v=e4c128d3:5478
+dispatchEvent @ chunk-NFC5BX5N.js?v=e4c128d3:5472
+dispatchDiscreteEvent @ chunk-NFC5BX5N.js?v=e4c128d3:5449Understand this error
+injected.js:27 ❌ Chunked upload failed: DetailedError2: tus: unexpected response while creating upload, originated from request (method: POST, url: https://nnqqdlrarfdjmyjsxxrw.storage.supabase.co/storage/v1/upload/resumable, response code: 413, response text: Maximum size exceeded
+, request id: n/a)
+    at Upload2._emitHttpError (tus-js-client.js?v=e4c128d3:1534:23)
+    at tus-js-client.js?v=e4c128d3:1647:18
+(anonymous) @ injected.js:27
+onError @ supabase.js:353
+_emitError @ tus-js-client.js?v=e4c128d3:1556
+_emitHttpError @ tus-js-client.js?v=e4c128d3:1534
+(anonymous) @ tus-js-client.js?v=e4c128d3:1647
+Promise.then
+_createUpload @ tus-js-client.js?v=e4c128d3:1645
+_startSingleUpload @ tus-js-client.js?v=e4c128d3:1487
+(anonymous) @ tus-js-client.js?v=e4c128d3:1364
+Promise.then
+start @ tus-js-client.js?v=e4c128d3:1344
+(anonymous) @ supabase.js:386
+uploadFileChunked @ supabase.js:316
+uploadInBackground @ OrderPage.jsx:549
+generateInitialPDF @ OrderPage.jsx:527
+handleFileChange @ OrderPage.jsx:317
+onChange @ OrderPage.jsx:1420
+callCallback2 @ chunk-NFC5BX5N.js?v=e4c128d3:3674
+invokeGuardedCallbackDev @ chunk-NFC5BX5N.js?v=e4c128d3:3699
+invokeGuardedCallback @ chunk-NFC5BX5N.js?v=e4c128d3:3733
+invokeGuardedCallbackAndCatchFirstError @ chunk-NFC5BX5N.js?v=e4c128d3:3736
+executeDispatch @ chunk-NFC5BX5N.js?v=e4c128d3:7014
+processDispatchQueueItemsInOrder @ chunk-NFC5BX5N.js?v=e4c128d3:7034
+processDispatchQueue @ chunk-NFC5BX5N.js?v=e4c128d3:7043
+dispatchEventsForPlugins @ chunk-NFC5BX5N.js?v=e4c128d3:7051
+(anonymous) @ chunk-NFC5BX5N.js?v=e4c128d3:7174
+batchedUpdates$1 @ chunk-NFC5BX5N.js?v=e4c128d3:18913
+batchedUpdates @ chunk-NFC5BX5N.js?v=e4c128d3:3579
+dispatchEventForPluginEventSystem @ chunk-NFC5BX5N.js?v=e4c128d3:7173
+dispatchEventWithEnableCapturePhaseSelectiveHydrationWithoutDiscreteEventReplay @ chunk-NFC5BX5N.js?v=e4c128d3:5478
+dispatchEvent @ chunk-NFC5BX5N.js?v=e4c128d3:5472
+dispatchDiscreteEvent @ chunk-NFC5BX5N.js?v=e4c128d3:5449Understand this error
+injected.js:27 ❌ Background upload error: Error: Upload failed: tus: unexpected response while creating upload, originated from request (method: POST, url: https://nnqqdlrarfdjmyjsxxrw.storage.supabase.co/storage/v1/upload/resumable, response code: 413, response text: Maximum size exceeded
+, request id: n/a)
+    at Object.onError (supabase.js:354:18)
+    at Upload2._emitError (tus-js-client.js?v=e4c128d3:1556:22)
+    at Upload2._emitHttpError (tus-js-client.js?v=e4c128d3:1534:12)
+    at tus-js-client.js?v=e4c128d3:1647:18
+(anonymous) @ injected.js:27
+uploadInBackground @ OrderPage.jsx:588
+await in uploadInBackground
+generateInitialPDF @ OrderPage.jsx:527
+handleFileChange @ OrderPage.jsx:317
+onChange @ OrderPage.jsx:1420
+callCallback2 @ chunk-NFC5BX5N.js?v=e4c128d3:3674
+invokeGuardedCallbackDev @ chunk-NFC5BX5N.js?v=e4c128d3:3699
+invokeGuardedCallback @ chunk-NFC5BX5N.js?v=e4c128d3:3733
+invokeGuardedCallbackAndCatchFirstError @ chunk-NFC5BX5N.js?v=e4c128d3:3736
+executeDispatch @ chunk-NFC5BX5N.js?v=e4c128d3:7014
+processDispatchQueueItemsInOrder @ chunk-NFC5BX5N.js?v=e4c128d3:7034
+processDispatchQueue @ chunk-NFC5BX5N.js?v=e4c128d3:7043
+dispatchEventsForPlugins @ chunk-NFC5BX5N.js?v=e4c128d3:7051
+(anonymous) @ chunk-NFC5BX5N.js?v=e4c128d3:7174
+batchedUpdates$1 @ chunk-NFC5BX5N.js?v=e4c128d3:18913
+batchedUpdates @ chunk-NFC5BX5N.js?v=e4c128d3:3579
+dispatchEventForPluginEventSystem @ chunk-NFC5BX5N.js?v=e4c128d3:7173
+dispatchEventWithEnableCapturePhaseSelectiveHydrationWithoutDiscreteEventReplay @ chunk-NFC5BX5N.js?v=e4c128d3:5478
+dispatchEvent @ chunk-NFC5BX5N.js?v=e4c128d3:5472
+dispatchDiscreteEvent @ chunk-NFC5BX5N.js?v=e4c128d3:5449Understand this error
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏱️ [PDF Parse Complete] at 1.05s
+injected.js:27 [PDFEditor] 📊 [PDF Parsing] took 696ms {pages: 202}
+injected.js:27 [PDFEditor] ⏱️ [Placeholders Start] at 1.05s
+injected.js:27 [PDFEditor] ⏱️ [Placeholders Complete] at 1.05s
+injected.js:27 [PDFEditor] 📊 [Create Placeholders] took 0.20ms {count: 202}
+injected.js:27 [PDFEditor] ✅ Editor Interactive: 1.05s
+injected.js:27 [PDFEditor] 📄 Loading first page (1)...
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 3 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 4 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏱️ [PDF Parse Complete] at 1.61s
+injected.js:27 [PDFEditor] 📊 [PDF Parsing] took 1.26s {pages: 202}
+injected.js:27 [PDFEditor] ⏱️ [Placeholders Start] at 1.61s
+injected.js:27 [PDFEditor] ⏱️ [Placeholders Complete] at 1.61s
+injected.js:27 [PDFEditor] 📊 [Create Placeholders] took 0.30ms {count: 202}
+injected.js:27 [PDFEditor] ✅ Editor Interactive: 1.61s
+injected.js:27 [PDFEditor] 📄 Loading first page (1)...
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 3 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 4 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] 📄 Page 1 (first): 791ms (started at +1.05s)
+injected.js:27 ⚠️ Slow page load detected: Page 1 took 791ms
+(anonymous) @ injected.js:27
+recordPageLoad @ performanceLogger.js:93
+complete @ performanceLogger.js:273
+loadPDF @ PDFEditor.jsx:278
+await in loadPDF
+(anonymous) @ PDFEditor.jsx:102
+commitHookEffectListMount @ chunk-NFC5BX5N.js?v=e4c128d3:16915
+invokePassiveEffectMountInDEV @ chunk-NFC5BX5N.js?v=e4c128d3:18324
+invokeEffectsInDev @ chunk-NFC5BX5N.js?v=e4c128d3:19701
+commitDoubleInvokeEffectsInDEV @ chunk-NFC5BX5N.js?v=e4c128d3:19686
+flushPassiveEffectsImpl @ chunk-NFC5BX5N.js?v=e4c128d3:19503
+flushPassiveEffects @ chunk-NFC5BX5N.js?v=e4c128d3:19447
+commitRootImpl @ chunk-NFC5BX5N.js?v=e4c128d3:19416
+commitRoot @ chunk-NFC5BX5N.js?v=e4c128d3:19277
+performSyncWorkOnRoot @ chunk-NFC5BX5N.js?v=e4c128d3:18895
+flushSyncCallbacks @ chunk-NFC5BX5N.js?v=e4c128d3:9119
+(anonymous) @ chunk-NFC5BX5N.js?v=e4c128d3:18627Understand this warning
+injected.js:27 [PDFEditor] ✅ First page loaded - editor ready!
+injected.js:27 [PDFEditor] ⏱️ [Progressive Loading Start] at 1.84s
+injected.js:27 [PDFEditor] 📄 Queued 201 pages for progressive loading
+injected.js:27 [PDFEditor] ✅ PDF Editor - Initial page loaded, progressive loading started
+injected.js:27 [PDFEditor] ℹ️ Remaining 201 pages loading progressively in background
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 3 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 4 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] 📄 Page 1 (first): 704ms (started at +1.61s)
+injected.js:27 ⚠️ Slow page load detected: Page 1 took 704ms
+(anonymous) @ injected.js:27
+recordPageLoad @ performanceLogger.js:93
+complete @ performanceLogger.js:273
+loadPDF @ PDFEditor.jsx:278
+await in loadPDF
+(anonymous) @ PDFEditor.jsx:102
+commitHookEffectListMount @ chunk-NFC5BX5N.js?v=e4c128d3:16915
+commitPassiveMountOnFiber @ chunk-NFC5BX5N.js?v=e4c128d3:18156
+commitPassiveMountEffects_complete @ chunk-NFC5BX5N.js?v=e4c128d3:18129
+commitPassiveMountEffects_begin @ chunk-NFC5BX5N.js?v=e4c128d3:18119
+commitPassiveMountEffects @ chunk-NFC5BX5N.js?v=e4c128d3:18109
+flushPassiveEffectsImpl @ chunk-NFC5BX5N.js?v=e4c128d3:19490
+flushPassiveEffects @ chunk-NFC5BX5N.js?v=e4c128d3:19447
+commitRootImpl @ chunk-NFC5BX5N.js?v=e4c128d3:19416
+commitRoot @ chunk-NFC5BX5N.js?v=e4c128d3:19277
+performSyncWorkOnRoot @ chunk-NFC5BX5N.js?v=e4c128d3:18895
+flushSyncCallbacks @ chunk-NFC5BX5N.js?v=e4c128d3:9119
+(anonymous) @ chunk-NFC5BX5N.js?v=e4c128d3:18627Understand this warning
+injected.js:27 [PDFEditor] 🛑 Load aborted after first page render
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] 📄 Page 2 (progressive): 638ms (started at +1.84s)
+injected.js:27 ⚠️ Slow page load detected: Page 2 took 638ms
+(anonymous) @ injected.js:27
+recordPageLoad @ performanceLogger.js:93
+complete @ performanceLogger.js:273
+loadNextPage @ PDFEditor.jsx:401
+await in loadNextPage
+loadPDF @ PDFEditor.jsx:482
+await in loadPDF
+(anonymous) @ PDFEditor.jsx:102
+commitHookEffectListMount @ chunk-NFC5BX5N.js?v=e4c128d3:16915
+invokePassiveEffectMountInDEV @ chunk-NFC5BX5N.js?v=e4c128d3:18324
+invokeEffectsInDev @ chunk-NFC5BX5N.js?v=e4c128d3:19701
+commitDoubleInvokeEffectsInDEV @ chunk-NFC5BX5N.js?v=e4c128d3:19686
+flushPassiveEffectsImpl @ chunk-NFC5BX5N.js?v=e4c128d3:19503
+flushPassiveEffects @ chunk-NFC5BX5N.js?v=e4c128d3:19447
+commitRootImpl @ chunk-NFC5BX5N.js?v=e4c128d3:19416
+commitRoot @ chunk-NFC5BX5N.js?v=e4c128d3:19277
+performSyncWorkOnRoot @ chunk-NFC5BX5N.js?v=e4c128d3:18895
+flushSyncCallbacks @ chunk-NFC5BX5N.js?v=e4c128d3:9119
+(anonymous) @ chunk-NFC5BX5N.js?v=e4c128d3:18627Understand this warning
+injected.js:27 [PDFEditor] ✅ Page 2 loaded (2/202 - 1%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 3 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 4 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] 📄 Page 3 (progressive): 514ms (started at +2.52s)
+injected.js:27 ⚠️ Slow page load detected: Page 3 took 514ms
+(anonymous) @ injected.js:27
+recordPageLoad @ performanceLogger.js:93
+complete @ performanceLogger.js:273
+loadNextPage @ PDFEditor.jsx:401
+await in loadNextPage
+requestIdleCallback.timeout @ PDFEditor.jsx:473
+requestIdleCallback
+loadNextPage @ PDFEditor.jsx:473
+await in loadNextPage
+loadPDF @ PDFEditor.jsx:482
+await in loadPDF
+(anonymous) @ PDFEditor.jsx:102
+commitHookEffectListMount @ chunk-NFC5BX5N.js?v=e4c128d3:16915
+invokePassiveEffectMountInDEV @ chunk-NFC5BX5N.js?v=e4c128d3:18324
+invokeEffectsInDev @ chunk-NFC5BX5N.js?v=e4c128d3:19701
+commitDoubleInvokeEffectsInDEV @ chunk-NFC5BX5N.js?v=e4c128d3:19686
+flushPassiveEffectsImpl @ chunk-NFC5BX5N.js?v=e4c128d3:19503
+flushPassiveEffects @ chunk-NFC5BX5N.js?v=e4c128d3:19447
+commitRootImpl @ chunk-NFC5BX5N.js?v=e4c128d3:19416
+commitRoot @ chunk-NFC5BX5N.js?v=e4c128d3:19277
+performSyncWorkOnRoot @ chunk-NFC5BX5N.js?v=e4c128d3:18895
+flushSyncCallbacks @ chunk-NFC5BX5N.js?v=e4c128d3:9119
+(anonymous) @ chunk-NFC5BX5N.js?v=e4c128d3:18627Understand this warning
+injected.js:27 [PDFEditor] ✅ Page 3 loaded (3/202 - 1%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 3 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 4 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] 📄 Page 4 (progressive): 487ms (started at +3.06s)
+injected.js:27 [PDFEditor] ✅ Page 4 loaded (4/202 - 2%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 3 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 4 in initial batch, skipping on-demand load
+injected.js:27 📄 Loaded 8 pages successfully
+injected.js:27 ✅ Initial pages loaded successfully
+injected.js:27 [PDFEditor] 📄 Page 5 (progressive): 489ms (started at +3.57s)
+injected.js:27 [PDFEditor] ✅ Page 5 loaded (5/202 - 2%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 3 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 4 in initial batch, skipping on-demand load
+injected.js:27 📄 Loaded 8 pages successfully
+injected.js:27 ✅ Initial pages loaded successfully
+injected.js:27 [PDFEditor] 🛑 Aborting PDF loading (unmount/file change)
+injected.js:27 📄 Starting fast PDF loading...
+injected.js:27 🧹 Cleanup: Revoked 0 blob URLs on unmount
+injected.js:27 📄 Starting fast PDF loading...
+2injected.js:27 📄 File converted to array buffer, size: 262946565
+injected.js:27 [PDFEditor] 📄 Page 6 (progressive): 438ms (started at +4.12s)
+injected.js:27 [PDFEditor] 🛑 Progressive loading aborted after render
+injected.js:27 📄 PDF ready: 202 pages detected
+injected.js:27 📄 Loading first 8 pages in background...
+injected.js:27 📄 Loading pages 1 to 8
+injected.js:27 📚 Applying settings to pages... 1
+injected.js:27 📄 PDF ready: 202 pages detected
+injected.js:27 📄 Loading first 8 pages in background...
+injected.js:27 📄 Loading pages 1 to 8
+injected.js:27 📄 Loaded 8 pages successfully
+injected.js:27 ✅ Initial pages loaded successfully
+injected.js:27 📄 Loaded 8 pages successfully
+injected.js:27 ✅ Initial pages loaded successfully
+injected.js:27 🧹 Cleanup: Revoked 8 blob URLs on unmount
+injected.js:27 📁 Files selected: 1 files
+injected.js:27 🚀 Pre-generating PDF for instant submission...
+injected.js:27 🚀 [TIMING] Starting PDF preparation and background upload...
+injected.js:27 ⏱️ [TIMING] PDF prepared in 0.000s
+injected.js:27 ✅ Original PDF ready - starting background upload...
+injected.js:27 📤 [TIMING] Starting background upload with CHUNKED protocol...
+injected.js:27 📊 File size: 250.77 MB
+injected.js:27 🚀 Starting CHUNKED upload for 250.77 MB file...
+injected.js:27 📁 Using direct storage endpoint: https://nnqqdlrarfdjmyjsxxrw.storage.supabase.co
+injected.js:27 📄 Starting fast PDF loading...
+injected.js:27 🧹 Cleanup: Revoked 0 blob URLs on unmount
+injected.js:27 📄 Starting fast PDF loading...
+injected.js:27 📤 Upload progress: 0.0% (0.00 MB / 250.77 MB)
+injected.js:27 📤 Upload progress: 0.0% (0.08 MB / 250.77 MB)
+injected.js:27 📤 Upload progress: 0.1% (0.17 MB / 250.77 MB)
+injected.js:27 📤 Upload progress: 0.2% (0.44 MB / 250.77 MB)
+2injected.js:27 📄 File converted to array buffer, size: 262946565
+injected.js:27 📤 Upload progress: 0.4% (0.91 MB / 250.77 MB)
+injected.js:27 📤 Upload progress: 0.7% (1.70 MB / 250.77 MB)
+injected.js:27 📤 Upload progress: 0.8% (2.00 MB / 250.77 MB)
+injected.js:27 📤 Upload progress: 0.9% (2.31 MB / 250.77 MB)
+injected.js:27 📤 Upload progress: 1.0% (2.59 MB / 250.77 MB)
+injected.js:27 📤 Upload progress: 1.1% (2.83 MB / 250.77 MB)
+injected.js:27 📤 Upload progress: 1.6% (4.09 MB / 250.77 MB)
+injected.js:27 📤 Upload progress: 1.7% (4.37 MB / 250.77 MB)
+injected.js:27 📤 Upload progress: 1.8% (4.61 MB / 250.77 MB)
+injected.js:27 📄 PDF ready: 202 pages detected
+injected.js:27 📄 Loading first 8 pages in background...
+injected.js:27 📄 Loading pages 1 to 8
+injected.js:27 📚 Applying settings to pages... 1
+injected.js:27 📤 Upload progress: 1.9% (4.89 MB / 250.77 MB)
+injected.js:27 📤 Upload progress: 2.2% (5.47 MB / 250.77 MB)
+injected.js:27 📤 Upload progress: 2.3% (5.75 MB / 250.77 MB)
+injected.js:27 📤 Upload progress: 2.4% (6.00 MB / 250.77 MB)
+supabase.js:386  POST https://nnqqdlrarfdjmyjsxxrw.storage.supabase.co/storage/v1/upload/resumable 413 (Content Too Large)
+(anonymous) @ tus-js-client.js?v=e4c128d3:2789
+send @ tus-js-client.js?v=e4c128d3:2782
+_callee$ @ tus-js-client.js?v=e4c128d3:1979
+tryCatch @ tus-js-client.js?v=e4c128d3:826
+(anonymous) @ tus-js-client.js?v=e4c128d3:903
+(anonymous) @ tus-js-client.js?v=e4c128d3:849
+asyncGeneratorStep @ tus-js-client.js?v=e4c128d3:1042
+_next @ tus-js-client.js?v=e4c128d3:1060
+(anonymous) @ tus-js-client.js?v=e4c128d3:1065
+(anonymous) @ tus-js-client.js?v=e4c128d3:1057
+sendRequest @ tus-js-client.js?v=e4c128d3:1963
+_sendRequest @ tus-js-client.js?v=e4c128d3:1900
+(anonymous) @ tus-js-client.js?v=e4c128d3:1811
+Promise.then
+_addChunkToRequest @ tus-js-client.js?v=e4c128d3:1793
+_createUpload @ tus-js-client.js?v=e4c128d3:1638
+_startSingleUpload @ tus-js-client.js?v=e4c128d3:1487
+(anonymous) @ tus-js-client.js?v=e4c128d3:1364
+Promise.then
+start @ tus-js-client.js?v=e4c128d3:1344
+(anonymous) @ supabase.js:386
+uploadFileChunked @ supabase.js:316
+uploadInBackground @ OrderPage.jsx:549
+generateInitialPDF @ OrderPage.jsx:527
+handleFileChange @ OrderPage.jsx:317
+onChange @ OrderPage.jsx:1420
+callCallback2 @ chunk-NFC5BX5N.js?v=e4c128d3:3674
+invokeGuardedCallbackDev @ chunk-NFC5BX5N.js?v=e4c128d3:3699
+invokeGuardedCallback @ chunk-NFC5BX5N.js?v=e4c128d3:3733
+invokeGuardedCallbackAndCatchFirstError @ chunk-NFC5BX5N.js?v=e4c128d3:3736
+executeDispatch @ chunk-NFC5BX5N.js?v=e4c128d3:7014
+processDispatchQueueItemsInOrder @ chunk-NFC5BX5N.js?v=e4c128d3:7034
+processDispatchQueue @ chunk-NFC5BX5N.js?v=e4c128d3:7043
+dispatchEventsForPlugins @ chunk-NFC5BX5N.js?v=e4c128d3:7051
+(anonymous) @ chunk-NFC5BX5N.js?v=e4c128d3:7174
+batchedUpdates$1 @ chunk-NFC5BX5N.js?v=e4c128d3:18913
+batchedUpdates @ chunk-NFC5BX5N.js?v=e4c128d3:3579
+dispatchEventForPluginEventSystem @ chunk-NFC5BX5N.js?v=e4c128d3:7173
+dispatchEventWithEnableCapturePhaseSelectiveHydrationWithoutDiscreteEventReplay @ chunk-NFC5BX5N.js?v=e4c128d3:5478
+dispatchEvent @ chunk-NFC5BX5N.js?v=e4c128d3:5472
+dispatchDiscreteEvent @ chunk-NFC5BX5N.js?v=e4c128d3:5449Understand this error
+injected.js:27 ❌ Chunked upload failed: DetailedError2: tus: unexpected response while creating upload, originated from request (method: POST, url: https://nnqqdlrarfdjmyjsxxrw.storage.supabase.co/storage/v1/upload/resumable, response code: 413, response text: Maximum size exceeded
+, request id: n/a)
+    at Upload2._emitHttpError (tus-js-client.js?v=e4c128d3:1534:23)
+    at tus-js-client.js?v=e4c128d3:1647:18
+(anonymous) @ injected.js:27
+onError @ supabase.js:353
+_emitError @ tus-js-client.js?v=e4c128d3:1556
+_emitHttpError @ tus-js-client.js?v=e4c128d3:1534
+(anonymous) @ tus-js-client.js?v=e4c128d3:1647
+Promise.then
+_createUpload @ tus-js-client.js?v=e4c128d3:1645
+_startSingleUpload @ tus-js-client.js?v=e4c128d3:1487
+(anonymous) @ tus-js-client.js?v=e4c128d3:1364
+Promise.then
+start @ tus-js-client.js?v=e4c128d3:1344
+(anonymous) @ supabase.js:386
+uploadFileChunked @ supabase.js:316
+uploadInBackground @ OrderPage.jsx:549
+generateInitialPDF @ OrderPage.jsx:527
+handleFileChange @ OrderPage.jsx:317
+onChange @ OrderPage.jsx:1420
+callCallback2 @ chunk-NFC5BX5N.js?v=e4c128d3:3674
+invokeGuardedCallbackDev @ chunk-NFC5BX5N.js?v=e4c128d3:3699
+invokeGuardedCallback @ chunk-NFC5BX5N.js?v=e4c128d3:3733
+invokeGuardedCallbackAndCatchFirstError @ chunk-NFC5BX5N.js?v=e4c128d3:3736
+executeDispatch @ chunk-NFC5BX5N.js?v=e4c128d3:7014
+processDispatchQueueItemsInOrder @ chunk-NFC5BX5N.js?v=e4c128d3:7034
+processDispatchQueue @ chunk-NFC5BX5N.js?v=e4c128d3:7043
+dispatchEventsForPlugins @ chunk-NFC5BX5N.js?v=e4c128d3:7051
+(anonymous) @ chunk-NFC5BX5N.js?v=e4c128d3:7174
+batchedUpdates$1 @ chunk-NFC5BX5N.js?v=e4c128d3:18913
+batchedUpdates @ chunk-NFC5BX5N.js?v=e4c128d3:3579
+dispatchEventForPluginEventSystem @ chunk-NFC5BX5N.js?v=e4c128d3:7173
+dispatchEventWithEnableCapturePhaseSelectiveHydrationWithoutDiscreteEventReplay @ chunk-NFC5BX5N.js?v=e4c128d3:5478
+dispatchEvent @ chunk-NFC5BX5N.js?v=e4c128d3:5472
+dispatchDiscreteEvent @ chunk-NFC5BX5N.js?v=e4c128d3:5449Understand this error
+injected.js:27 ❌ Background upload error: Error: Upload failed: tus: unexpected response while creating upload, originated from request (method: POST, url: https://nnqqdlrarfdjmyjsxxrw.storage.supabase.co/storage/v1/upload/resumable, response code: 413, response text: Maximum size exceeded
+, request id: n/a)
+    at Object.onError (supabase.js:354:18)
+    at Upload2._emitError (tus-js-client.js?v=e4c128d3:1556:22)
+    at Upload2._emitHttpError (tus-js-client.js?v=e4c128d3:1534:12)
+    at tus-js-client.js?v=e4c128d3:1647:18
+(anonymous) @ injected.js:27
+uploadInBackground @ OrderPage.jsx:588
+await in uploadInBackground
+generateInitialPDF @ OrderPage.jsx:527
+handleFileChange @ OrderPage.jsx:317
+onChange @ OrderPage.jsx:1420
+callCallback2 @ chunk-NFC5BX5N.js?v=e4c128d3:3674
+invokeGuardedCallbackDev @ chunk-NFC5BX5N.js?v=e4c128d3:3699
+invokeGuardedCallback @ chunk-NFC5BX5N.js?v=e4c128d3:3733
+invokeGuardedCallbackAndCatchFirstError @ chunk-NFC5BX5N.js?v=e4c128d3:3736
+executeDispatch @ chunk-NFC5BX5N.js?v=e4c128d3:7014
+processDispatchQueueItemsInOrder @ chunk-NFC5BX5N.js?v=e4c128d3:7034
+processDispatchQueue @ chunk-NFC5BX5N.js?v=e4c128d3:7043
+dispatchEventsForPlugins @ chunk-NFC5BX5N.js?v=e4c128d3:7051
+(anonymous) @ chunk-NFC5BX5N.js?v=e4c128d3:7174
+batchedUpdates$1 @ chunk-NFC5BX5N.js?v=e4c128d3:18913
+batchedUpdates @ chunk-NFC5BX5N.js?v=e4c128d3:3579
+dispatchEventForPluginEventSystem @ chunk-NFC5BX5N.js?v=e4c128d3:7173
+dispatchEventWithEnableCapturePhaseSelectiveHydrationWithoutDiscreteEventReplay @ chunk-NFC5BX5N.js?v=e4c128d3:5478
+dispatchEvent @ chunk-NFC5BX5N.js?v=e4c128d3:5472
+dispatchDiscreteEvent @ chunk-NFC5BX5N.js?v=e4c128d3:5449Understand this error
+injected.js:27 📄 PDF ready: 202 pages detected
+injected.js:27 📄 Loading first 8 pages in background...
+injected.js:27 📄 Loading pages 1 to 8
+injected.js:27 📄 Loaded 8 pages successfully
+injected.js:27 ✅ Initial pages loaded successfully
+injected.js:27 📄 Loaded 8 pages successfully
+injected.js:27 ✅ Initial pages loaded successfully
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 🧹 Cleanup: Revoked 8 blob URLs on unmount
+injected.js:27 [PDFEditor] 🚀 Performance tracking started
+injected.js:27 [PDFEditor] ⏱️ [File Load Start] at 0.20ms
+injected.js:27 🔄 useEffect triggered: {pagesPerSheet: 1, colorMode: 'BW', originalPagesLength: 0}
+injected.js:27 ⚠️ Skipping updateGridThumbnails - no originalPages yet
+injected.js:27 [PDFEditor] 🛑 Aborting PDF loading (unmount/file change)
+injected.js:27 [PDFEditor] 🚀 Performance tracking started
+injected.js:27 [PDFEditor] ⏱️ [File Load Start] at 0.30ms
+injected.js:27 🔄 useEffect triggered: {pagesPerSheet: 1, colorMode: 'BW', originalPagesLength: 0}
+injected.js:27 ⚠️ Skipping updateGridThumbnails - no originalPages yet
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏱️ [File Load Complete] at 234ms
+injected.js:27 [PDFEditor] 📊 [File to ArrayBuffer] took 234ms {size: 262946565, sizeFormatted: '250.77 MB'}
+injected.js:27 [PDFEditor] ⏱️ [PDF Parse Start] at 235ms
+injected.js:27 [PDFEditor] ⏱️ [File Load Complete] at 242ms
+injected.js:27 [PDFEditor] 📊 [File to ArrayBuffer] took 241ms {size: 262946565, sizeFormatted: '250.77 MB'}
+injected.js:27 [PDFEditor] ⏱️ [PDF Parse Start] at 249ms
+injected.js:27 [PDFEditor] ⏱️ [PDF Parse Complete] at 581ms
+injected.js:27 [PDFEditor] 📊 [PDF Parsing] took 332ms {pages: 202}
+injected.js:27 [PDFEditor] ⏱️ [Placeholders Start] at 582ms
+injected.js:27 [PDFEditor] ⏱️ [Placeholders Complete] at 582ms
+injected.js:27 [PDFEditor] 📊 [Create Placeholders] took 0.30ms {count: 202}
+injected.js:27 [PDFEditor] ✅ Editor Interactive: 583ms
+injected.js:27 [PDFEditor] 📄 Loading first page (1)...
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 3 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 4 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏱️ [PDF Parse Complete] at 704ms
+injected.js:27 [PDFEditor] 📊 [PDF Parsing] took 455ms {pages: 202}
+injected.js:27 [PDFEditor] ⏱️ [Placeholders Start] at 705ms
+injected.js:27 [PDFEditor] ⏱️ [Placeholders Complete] at 705ms
+injected.js:27 [PDFEditor] 📊 [Create Placeholders] took 0.20ms {count: 202}
+injected.js:27 [PDFEditor] ✅ Editor Interactive: 705ms
+injected.js:27 [PDFEditor] 📄 Loading first page (1)...
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 3 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 4 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] 📄 Page 1 (first): 680ms (started at +583ms)
+injected.js:27 ⚠️ Slow page load detected: Page 1 took 680ms
+(anonymous) @ injected.js:27
+recordPageLoad @ performanceLogger.js:93
+complete @ performanceLogger.js:273
+loadPDF @ PDFEditor.jsx:278
+await in loadPDF
+(anonymous) @ PDFEditor.jsx:102
+commitHookEffectListMount @ chunk-NFC5BX5N.js?v=e4c128d3:16915
+commitPassiveMountOnFiber @ chunk-NFC5BX5N.js?v=e4c128d3:18156
+commitPassiveMountEffects_complete @ chunk-NFC5BX5N.js?v=e4c128d3:18129
+commitPassiveMountEffects_begin @ chunk-NFC5BX5N.js?v=e4c128d3:18119
+commitPassiveMountEffects @ chunk-NFC5BX5N.js?v=e4c128d3:18109
+flushPassiveEffectsImpl @ chunk-NFC5BX5N.js?v=e4c128d3:19490
+flushPassiveEffects @ chunk-NFC5BX5N.js?v=e4c128d3:19447
+commitRootImpl @ chunk-NFC5BX5N.js?v=e4c128d3:19416
+commitRoot @ chunk-NFC5BX5N.js?v=e4c128d3:19277
+performSyncWorkOnRoot @ chunk-NFC5BX5N.js?v=e4c128d3:18895
+flushSyncCallbacks @ chunk-NFC5BX5N.js?v=e4c128d3:9119
+(anonymous) @ chunk-NFC5BX5N.js?v=e4c128d3:18627Understand this warning
+injected.js:27 [PDFEditor] 🛑 Load aborted after first page render
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] 📄 Page 1 (first): 618ms (started at +705ms)
+injected.js:27 ⚠️ Slow page load detected: Page 1 took 618ms
+(anonymous) @ injected.js:27
+recordPageLoad @ performanceLogger.js:93
+complete @ performanceLogger.js:273
+loadPDF @ PDFEditor.jsx:278
+await in loadPDF
+(anonymous) @ PDFEditor.jsx:102
+commitHookEffectListMount @ chunk-NFC5BX5N.js?v=e4c128d3:16915
+invokePassiveEffectMountInDEV @ chunk-NFC5BX5N.js?v=e4c128d3:18324
+invokeEffectsInDev @ chunk-NFC5BX5N.js?v=e4c128d3:19701
+commitDoubleInvokeEffectsInDEV @ chunk-NFC5BX5N.js?v=e4c128d3:19686
+flushPassiveEffectsImpl @ chunk-NFC5BX5N.js?v=e4c128d3:19503
+flushPassiveEffects @ chunk-NFC5BX5N.js?v=e4c128d3:19447
+commitRootImpl @ chunk-NFC5BX5N.js?v=e4c128d3:19416
+commitRoot @ chunk-NFC5BX5N.js?v=e4c128d3:19277
+performSyncWorkOnRoot @ chunk-NFC5BX5N.js?v=e4c128d3:18895
+flushSyncCallbacks @ chunk-NFC5BX5N.js?v=e4c128d3:9119
+(anonymous) @ chunk-NFC5BX5N.js?v=e4c128d3:18627Understand this warning
+injected.js:27 [PDFEditor] ✅ First page loaded - editor ready!
+injected.js:27 [PDFEditor] ⏱️ [Progressive Loading Start] at 1.32s
+injected.js:27 [PDFEditor] 📄 Queued 201 pages for progressive loading
+injected.js:27 [PDFEditor] ✅ PDF Editor - Initial page loaded, progressive loading started
+injected.js:27 [PDFEditor] ℹ️ Remaining 201 pages loading progressively in background
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 3 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 4 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] 📄 Page 2 (progressive): 530ms (started at +1.32s)
+injected.js:27 ⚠️ Slow page load detected: Page 2 took 530ms
+(anonymous) @ injected.js:27
+recordPageLoad @ performanceLogger.js:93
+complete @ performanceLogger.js:273
+loadNextPage @ PDFEditor.jsx:401
+await in loadNextPage
+loadPDF @ PDFEditor.jsx:482
+await in loadPDF
+(anonymous) @ PDFEditor.jsx:102
+commitHookEffectListMount @ chunk-NFC5BX5N.js?v=e4c128d3:16915
+invokePassiveEffectMountInDEV @ chunk-NFC5BX5N.js?v=e4c128d3:18324
+invokeEffectsInDev @ chunk-NFC5BX5N.js?v=e4c128d3:19701
+commitDoubleInvokeEffectsInDEV @ chunk-NFC5BX5N.js?v=e4c128d3:19686
+flushPassiveEffectsImpl @ chunk-NFC5BX5N.js?v=e4c128d3:19503
+flushPassiveEffects @ chunk-NFC5BX5N.js?v=e4c128d3:19447
+commitRootImpl @ chunk-NFC5BX5N.js?v=e4c128d3:19416
+commitRoot @ chunk-NFC5BX5N.js?v=e4c128d3:19277
+performSyncWorkOnRoot @ chunk-NFC5BX5N.js?v=e4c128d3:18895
+flushSyncCallbacks @ chunk-NFC5BX5N.js?v=e4c128d3:9119
+(anonymous) @ chunk-NFC5BX5N.js?v=e4c128d3:18627Understand this warning
+injected.js:27 [PDFEditor] ✅ Page 2 loaded (2/202 - 1%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 3 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 4 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] 📄 Page 3 (progressive): 460ms (started at +1.89s)
+injected.js:27 [PDFEditor] ✅ Page 3 loaded (3/202 - 1%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 3 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 4 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] 📄 Page 4 (progressive): 434ms (started at +2.39s)
+injected.js:27 [PDFEditor] ✅ Page 4 loaded (4/202 - 2%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 3 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 4 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] 📄 Page 5 (progressive): 409ms (started at +2.85s)
+injected.js:27 [PDFEditor] ✅ Page 5 loaded (5/202 - 2%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 3 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 4 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] 📄 Page 6 (progressive): 437ms (started at +3.28s)
+injected.js:27 [PDFEditor] ✅ Page 6 loaded (6/202 - 3%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 3 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 4 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] 📄 Page 7 (progressive): 424ms (started at +3.75s)
+injected.js:27 [PDFEditor] ✅ Page 7 loaded (7/202 - 3%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 3 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 4 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] 📄 Page 8 (progressive): 416ms (started at +4.19s)
+injected.js:27 [PDFEditor] ✅ Page 8 loaded (8/202 - 4%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 3 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 4 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] 📄 Page 9 (progressive): 393ms (started at +4.62s)
+injected.js:27 [PDFEditor] ✅ Page 9 loaded (9/202 - 4%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 3 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 4 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] 📄 Page 10 (progressive): 477ms (started at +5.05s)
+injected.js:27 [PDFEditor] ✅ Page 10 loaded (10/202 - 5%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 3 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 4 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] 📄 Page 11 (progressive): 404ms (started at +5.54s)
+injected.js:27 [PDFEditor] ✅ Page 11 loaded (11/202 - 5%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 3 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 4 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] 📄 Page 12 (progressive): 336ms (started at +5.98s)
+injected.js:27 [PDFEditor] ✅ Page 12 loaded (12/202 - 6%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 3 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 4 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] 📄 Page 13 (progressive): 411ms (started at +6.33s)
+injected.js:27 [PDFEditor] ✅ Page 13 loaded (13/202 - 6%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 3 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 4 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] 📄 Page 14 (progressive): 456ms (started at +6.77s)
+injected.js:27 [PDFEditor] ✅ Page 14 loaded (14/202 - 7%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 3 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 4 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] 📄 Page 15 (progressive): 389ms (started at +7.25s)
+injected.js:27 [PDFEditor] ✅ Page 15 loaded (15/202 - 7%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 3 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 4 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] 📄 Page 16 (progressive): 393ms (started at +7.66s)
+injected.js:27 [PDFEditor] ✅ Page 16 loaded (16/202 - 8%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 3 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 4 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] 📄 Page 17 (progressive): 307ms (started at +8.09s)
+injected.js:27 [PDFEditor] ✅ Page 17 loaded (17/202 - 8%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 3 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 4 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] 📄 Page 18 (progressive): 336ms (started at +8.43s)
+injected.js:27 [PDFEditor] ✅ Page 18 loaded (18/202 - 9%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 3 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 4 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] 📄 Page 19 (progressive): 293ms (started at +8.80s)
+injected.js:27 [PDFEditor] ✅ Page 19 loaded (19/202 - 9%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 3 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 4 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] 📄 Page 20 (progressive): 362ms (started at +9.12s)
+injected.js:27 [PDFEditor] ✅ Page 20 loaded (20/202 - 10%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 3 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 4 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] 📄 Page 21 (progressive): 363ms (started at +9.52s)
+injected.js:27 [PDFEditor] ✅ Page 21 loaded (21/202 - 10%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 3 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 4 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] 📄 Page 22 (progressive): 350ms (started at +9.90s)
+injected.js:27 [PDFEditor] ✅ Page 22 loaded (22/202 - 11%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 3 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 4 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] 📄 Page 23 (progressive): 347ms (started at +10.27s)
+injected.js:27 [PDFEditor] ✅ Page 23 loaded (23/202 - 11%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 3 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 4 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] 📄 Page 24 (progressive): 382ms (started at +10.64s)
+injected.js:27 [PDFEditor] ✅ Page 24 loaded (24/202 - 12%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 3 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 4 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] 📄 Page 25 (progressive): 367ms (started at +11.04s)
+injected.js:27 [PDFEditor] ✅ Page 25 loaded (25/202 - 12%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 3 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 4 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] 📄 Page 26 (progressive): 363ms (started at +11.45s)
+injected.js:27 [PDFEditor] ✅ Page 26 loaded (26/202 - 13%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 3 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 4 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] 📄 Page 27 (progressive): 318ms (started at +11.85s)
+injected.js:27 [PDFEditor] ✅ Page 27 loaded (27/202 - 13%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 3 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 4 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] 📄 Page 28 (progressive): 343ms (started at +12.20s)
+injected.js:27 [PDFEditor] ✅ Page 28 loaded (28/202 - 14%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 3 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 4 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] 📄 Page 29 (progressive): 345ms (started at +12.57s)
+injected.js:27 [PDFEditor] ✅ Page 29 loaded (29/202 - 14%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 3 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 4 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] 📄 Page 30 (progressive): 392ms (started at +12.94s)
+injected.js:27 [PDFEditor] ✅ Page 30 loaded (30/202 - 15%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 3 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 4 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] 📄 Page 31 (progressive): 349ms (started at +13.36s)
+injected.js:27 [PDFEditor] ✅ Page 31 loaded (31/202 - 15%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 3 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 4 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] 📄 Page 32 (progressive): 307ms (started at +13.73s)
+injected.js:27 [PDFEditor] ✅ Page 32 loaded (32/202 - 16%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 3 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 4 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] 📄 Page 33 (progressive): 313ms (started at +14.06s)
+injected.js:27 [PDFEditor] ✅ Page 33 loaded (33/202 - 16%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 3 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 4 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] 📄 Page 34 (progressive): 375ms (started at +14.41s)
+injected.js:27 [PDFEditor] ✅ Page 34 loaded (34/202 - 17%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 3 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 4 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] 📄 Page 35 (progressive): 342ms (started at +14.82s)
+injected.js:27 [PDFEditor] ✅ Page 35 loaded (35/202 - 17%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 3 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 4 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] 📄 Page 36 (progressive): 370ms (started at +15.20s)
+injected.js:27 [PDFEditor] ✅ Page 36 loaded (36/202 - 18%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 3 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 4 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] 📄 Page 37 (progressive): 387ms (started at +15.59s)
+injected.js:27 [PDFEditor] ✅ Page 37 loaded (37/202 - 18%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 3 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 4 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] 📄 Page 38 (progressive): 284ms (started at +16.00s)
+injected.js:27 [PDFEditor] ✅ Page 38 loaded (38/202 - 19%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 3 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 4 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] 📄 Page 39 (progressive): 360ms (started at +16.32s)
+injected.js:27 [PDFEditor] ✅ Page 39 loaded (39/202 - 19%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 3 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 4 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] 📄 Page 40 (progressive): 314ms (started at +16.71s)
+injected.js:27 [PDFEditor] ✅ Page 40 loaded (40/202 - 20%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 3 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 4 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] 📄 Page 41 (progressive): 290ms (started at +17.05s)
+injected.js:27 [PDFEditor] ✅ Page 41 loaded (41/202 - 20%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 3 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 4 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] 📄 Page 42 (progressive): 314ms (started at +17.38s)
+injected.js:27 [PDFEditor] ✅ Page 42 loaded (42/202 - 21%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 3 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 4 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] 📄 Page 43 (progressive): 308ms (started at +17.73s)
+injected.js:27 [PDFEditor] ✅ Page 43 loaded (43/202 - 21%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 3 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 4 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] 📄 Page 44 (progressive): 268ms (started at +18.05s)
+injected.js:27 [PDFEditor] ✅ Page 44 loaded (44/202 - 22%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 3 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 4 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] 📄 Page 45 (progressive): 259ms (started at +18.35s)
+injected.js:27 [PDFEditor] ✅ Page 45 loaded (45/202 - 22%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 3 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 4 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] 📄 Page 46 (progressive): 299ms (started at +18.65s)
+injected.js:27 [PDFEditor] ✅ Page 46 loaded (46/202 - 23%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 3 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 4 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] 📄 Page 47 (progressive): 319ms (started at +18.97s)
+injected.js:27 [PDFEditor] ✅ Page 47 loaded (47/202 - 23%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 3 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 4 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] 📄 Page 48 (progressive): 271ms (started at +19.33s)
+injected.js:27 [PDFEditor] ✅ Page 48 loaded (48/202 - 24%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 3 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 4 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] 📄 Page 49 (progressive): 288ms (started at +19.64s)
+injected.js:27 [PDFEditor] ✅ Page 49 loaded (49/202 - 24%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 3 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 4 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] 📄 Page 50 (progressive): 327ms (started at +19.96s)
+injected.js:27 [PDFEditor] ✅ Page 50 loaded (50/202 - 25%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 3 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 4 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] 📄 Page 51 (progressive): 302ms (started at +20.32s)
+injected.js:27 [PDFEditor] ✅ Page 51 loaded (51/202 - 25%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 3 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 4 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] 📄 Page 52 (progressive): 296ms (started at +20.65s)
+injected.js:27 [PDFEditor] ✅ Page 52 loaded (52/202 - 26%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 3 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 4 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] 📄 Page 53 (progressive): 366ms (started at +20.97s)
+injected.js:27 [PDFEditor] ✅ Page 53 loaded (53/202 - 26%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 3 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 4 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] 📄 Page 54 (progressive): 326ms (started at +21.37s)
+injected.js:27 [PDFEditor] ✅ Page 54 loaded (54/202 - 27%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 3 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 4 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] 📄 Page 55 (progressive): 359ms (started at +21.73s)
+injected.js:27 [PDFEditor] ✅ Page 55 loaded (55/202 - 27%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 3 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 4 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] 📄 Page 56 (progressive): 329ms (started at +22.12s)
+injected.js:27 [PDFEditor] ✅ Page 56 loaded (56/202 - 28%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 3 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 4 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] 📄 Page 57 (progressive): 347ms (started at +22.48s)
+injected.js:27 [PDFEditor] ✅ Page 57 loaded (57/202 - 28%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 3 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 4 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] 📄 Page 58 (progressive): 328ms (started at +22.87s)
+injected.js:27 [PDFEditor] ✅ Page 58 loaded (58/202 - 29%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 3 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 4 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] 📄 Page 59 (progressive): 287ms (started at +23.24s)
+injected.js:27 [PDFEditor] ✅ Page 59 loaded (59/202 - 29%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 3 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 4 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] 📄 Page 60 (progressive): 330ms (started at +23.56s)
+injected.js:27 [PDFEditor] ✅ Page 60 loaded (60/202 - 30%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 3 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 4 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] 📄 Page 61 (progressive): 362ms (started at +23.92s)
+injected.js:27 [PDFEditor] ✅ Page 61 loaded (61/202 - 30%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 3 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 4 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] 📄 Page 62 (progressive): 314ms (started at +24.32s)
+injected.js:27 [PDFEditor] ✅ Page 62 loaded (62/202 - 31%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 3 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 4 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] 📄 Page 63 (progressive): 324ms (started at +24.67s)
+injected.js:27 [PDFEditor] ✅ Page 63 loaded (63/202 - 31%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 3 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 4 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] 📄 Page 64 (progressive): 301ms (started at +25.03s)
+injected.js:27 [PDFEditor] ✅ Page 64 loaded (64/202 - 32%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 3 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 4 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] 📄 Page 65 (progressive): 360ms (started at +25.37s)
+injected.js:27 [PDFEditor] ✅ Page 65 loaded (65/202 - 32%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 3 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 4 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] 📄 Page 66 (progressive): 278ms (started at +25.76s)
+injected.js:27 [PDFEditor] ✅ Page 66 loaded (66/202 - 33%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 3 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 4 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] 📄 Page 67 (progressive): 315ms (started at +26.07s)
+injected.js:27 [PDFEditor] ✅ Page 67 loaded (67/202 - 33%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 3 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 4 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] 📄 Page 68 (progressive): 331ms (started at +26.42s)
+injected.js:27 [PDFEditor] ✅ Page 68 loaded (68/202 - 34%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 3 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 4 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] 📄 Page 69 (progressive): 302ms (started at +26.78s)
+injected.js:27 [PDFEditor] ✅ Page 69 loaded (69/202 - 34%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 3 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 4 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] 📄 Page 70 (progressive): 297ms (started at +27.11s)
+injected.js:27 [PDFEditor] ✅ Page 70 loaded (70/202 - 35%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 3 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 4 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] 📄 Page 71 (progressive): 259ms (started at +27.44s)
+injected.js:27 [PDFEditor] ✅ Page 71 loaded (71/202 - 35%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 3 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 4 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] 📄 Page 72 (progressive): 329ms (started at +27.72s)
+injected.js:27 [PDFEditor] ✅ Page 72 loaded (72/202 - 36%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 3 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 4 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] 📄 Page 73 (progressive): 289ms (started at +28.08s)
+injected.js:27 [PDFEditor] ✅ Page 73 loaded (73/202 - 36%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 3 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 4 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] 📄 Page 74 (progressive): 316ms (started at +28.40s)
+injected.js:27 [PDFEditor] ✅ Page 74 loaded (74/202 - 37%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 3 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 4 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] 📄 Page 75 (progressive): 306ms (started at +28.75s)
+injected.js:27 [PDFEditor] ✅ Page 75 loaded (75/202 - 37%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 3 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 4 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] 📄 Page 76 (progressive): 280ms (started at +29.09s)
+injected.js:27 [PDFEditor] ✅ Page 76 loaded (76/202 - 38%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 3 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 4 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] 📄 Page 77 (progressive): 315ms (started at +29.40s)
+injected.js:27 [PDFEditor] ✅ Page 77 loaded (77/202 - 38%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 3 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 4 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] 📄 Page 78 (progressive): 329ms (started at +29.75s)
+injected.js:27 [PDFEditor] ✅ Page 78 loaded (78/202 - 39%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 3 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 4 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] 📄 Page 79 (progressive): 335ms (started at +30.11s)
+injected.js:27 [PDFEditor] ✅ Page 79 loaded (79/202 - 39%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 3 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 4 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] 📄 Page 80 (progressive): 342ms (started at +30.48s)
+injected.js:27 [PDFEditor] ✅ Page 80 loaded (80/202 - 40%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 3 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 4 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] 📄 Page 81 (progressive): 341ms (started at +30.85s)
+injected.js:27 [PDFEditor] ✅ Page 81 loaded (81/202 - 40%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 3 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 4 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] 📄 Page 82 (progressive): 317ms (started at +31.22s)
+injected.js:27 [PDFEditor] ✅ Page 82 loaded (82/202 - 41%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 3 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 4 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] 📄 Page 83 (progressive): 342ms (started at +31.58s)
+injected.js:27 [PDFEditor] ✅ Page 83 loaded (83/202 - 41%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 3 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 4 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] 📄 Page 84 (progressive): 381ms (started at +31.96s)
+injected.js:27 [PDFEditor] ✅ Page 84 loaded (84/202 - 42%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 3 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 4 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] 📄 Page 85 (progressive): 334ms (started at +32.37s)
+injected.js:27 [PDFEditor] ✅ Page 85 loaded (85/202 - 42%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 3 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 4 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] 📄 Page 86 (progressive): 329ms (started at +32.74s)
+injected.js:27 [PDFEditor] ✅ Page 86 loaded (86/202 - 43%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 3 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 4 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] 📄 Page 87 (progressive): 320ms (started at +33.10s)
+injected.js:27 [PDFEditor] ✅ Page 87 loaded (87/202 - 43%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 3 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 4 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] 📄 Page 88 (progressive): 346ms (started at +33.46s)
+injected.js:27 [PDFEditor] ✅ Page 88 loaded (88/202 - 44%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 3 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 4 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] 📄 Page 89 (progressive): 313ms (started at +33.84s)
+injected.js:27 [PDFEditor] ✅ Page 89 loaded (89/202 - 44%)
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 📄 PDFEditor mounted with pagesPerSheet: 1 Type: number
+injected.js:27 [PDFEditor] ⏸️ Page 1 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 2 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 3 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] ⏸️ Page 4 in initial batch, skipping on-demand load
+injected.js:27 [PDFEditor] 📄 Page 90 (progressive): 350ms (started at +34.19s)
+injected.js:27 [PDFEditor] ✅ Page 90 loaded (90/202 - 45%)
+injected.js
